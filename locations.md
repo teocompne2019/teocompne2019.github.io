@@ -4,7 +4,7 @@ title: Locations
 class: locations
 permalink: /locations/
 ---
-Welcome to Portland!
+Bem vindo a Salvador!
 ===
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
