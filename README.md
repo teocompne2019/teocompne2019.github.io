@@ -1,28 +1,19 @@
-# CSVConf.com
+# TeoCOMP-NE 2019
 
-A static site, [http://csvconf.com/](http://csvconf.com).
+Este site utiliza o [Jekyll](https://github.com/jekyll/jekyll)!
 
-Forked from [martini](https://github.com/codegangsta/martini) gh-pages branch.
+Requisitos:
 
-## Develop
-
-This is a [Jekyll](https://github.com/jekyll/jekyll) site!
-
-Requirements:
-
-To work on the CSVConf site locally, you'll first need to have the following installed:
+Para trabalhar com esse site na sua própria máquina, você precisa dos seguintes pacotes:
 
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Bundler](http://bundler.io/)
 
-Once that's taken care of, here are the steps necessary to get it running locally:
+Uma vez que os pacotes acima estiverem instalados, basta executar os seguintes comandos através do seu terminal:
 
-1. clone this repository and `cd` into the `csvconf.com` directory
-1. run the `bundle` command
-1. run `bundle exec jekyll serve -w`
+1. clone este repositorio and acesse o seu diretório
+1. execute o comando `bundle`
+1. e por fim, execute o comando `bundle exec jekyll serve -w`
 
-If everything worked, you should now have a local server running at http://localhost:4000. The `w` flag means the server will watch for changes and rebuild, so you can edit the site as needed and see the updated version in your browser right away.
+Se tudo der certo, o seu servidor local será acessível pelo endereço http://localhost:4000. 
 
-## License
-
-[MIT](LICENSE)
