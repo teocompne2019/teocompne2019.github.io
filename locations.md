@@ -24,17 +24,20 @@ Se você não sabe por onde começar, deixaremos algumas sugestões de busca:
 
 # Deslocamento
 
-   * [Uber](https://portlandstreetcar.org/)
-   * [ItMov](http://trimet.org/)
-   * [99pop](https://trimet.org/app/)
-   * [4mov](https://www.biketownpdx.com/)
-   * [Bike Salvador](https://www.biketownpdx.com/)
+Além de ônibus, metrô e taxi, a cidade conta com diversos aplicativos de transporte.
+
+   * [Uber](https://www.uber.com/en-BR/cities/salvador/)
+   * [ItMov](https://www.itmov.com.br/passageiro)
+   * [99pop](https://99app.com/passageiro/)
+   
+Você também pode usufruir dos serviços de compartilhamento de bicicleta. 
+   * [Bike Salvador](https://bikeitau.com.br/bikesalvador/)
 
 Também temos contatos com motoristas particulares de confiança.
 
 # Lanchonetes e Restaurantes
 
-   * [Instituto de Biologia](https://www.stumptowncoffee.com/locations/portland/ace-pdx)
-   * [Faculdade de Comunicação - FACOM](http://www.couriercoffeeroasters.com/)
-   * [Beiju dos Heróis](https://www.heartroasters.com/)
-   * [Acarajé da Dinha](http://www.casestudycoffee.com/)
+   * [Cantina da Biologia](https://goo.gl/maps/gDQYjEcTuoD2)
+   * [Cantina da Faculdade de Comunicação - FACOM](https://goo.gl/maps/pgKUAKwfR192)
+   * [Cantina da Escola de Medicina Veterinária](https://goo.gl/maps/zcEZn4GcepR2)
+   * [Ondina Delicatessen](https://goo.gl/maps/rpkupGwdg4S2)
