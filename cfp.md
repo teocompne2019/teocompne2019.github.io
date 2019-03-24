@@ -26,7 +26,7 @@ Salvador, 2 a 4 de maio de 2019  <br>
   * Resultado da avaliação da submissão: 20 de abril de 2019
   - Inscrições: até 30 de abril de 2019.
 
-## Apresentação
+## Sobre o evento
 <hr>
 
 A primeira edição da Escola Regional de Teoria da Computação é um fórum voltado para a 
