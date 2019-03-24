@@ -19,6 +19,16 @@ Salvador, 2 a 4 de maio de 2019  <br>
 <br>
 </center>
 
+## Datas importantes
+<hr>
+
+  - Submissão do resumo: até 15 de abril de 2019
+  * Resultado da avaliação da submissão: 20 de abril de 2019
+  - Inscrições: até 30 de abril de 2019.
+
+## Apresentação
+<hr>
+
 A primeira edição da Escola Regional de Teoria da Computação é um fórum voltado para a 
 grande área de Teoria da Computação. O evento é voltado para os alunos em formação, 
 em nível de prós-graduação e iniciação científica, mas também visa proporcionar uma 
@@ -28,7 +38,7 @@ discussão da importância dos fundamentos da computação e sua aplicação dir
 entendimento e resolução de problemas das mais diversas áreas..
 
 
-<h2>Orientações de submissão</h2>
+## Orientações de submissão
 <hr>
 
 <p>Submissões devem ser realizadas em <a href="https://easychair.org/conferences/?conf=teocompne2019" target="_blank">https://easychair.org/conferences/?conf=teocompne2019</a></p>
