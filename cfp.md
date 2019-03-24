@@ -13,13 +13,19 @@ permalink: /cfp/
 TeoCOMP-NE - 2019 <br>
 I Escola Regional de Teoria da Computação  <br>
 Salvador, 2 a 4 de maio de 2019  <br>
-[teocompne2019.github.io](https://teocompne2019.github.io/)  <br>
+<a href="https://teocompne2019.github.io/">teocompne2019.github.io</a><br>
 ============================================ <br>
 </h2>
 <br>
 </center>
 
-<p>A primeira edição da Escola Regional de Teoria da Computação é um fórum voltado para a grande área de Teoria da Computação. O evento é voltado para os alunos em formação, em nível de prós-graduação e iniciação científica, mas também visa proporcionar uma maior integração entre os pesquisadores e profissionais que atuam principalmente na região nordeste, seja com enfoque em teoria pura ou em aplicações, estimulando a discussão da importância dos fundamentos da computação e sua aplicação direta no entendimento e resolução de problemas das mais diversas áreas..</p>
+A primeira edição da Escola Regional de Teoria da Computação é um fórum voltado para a 
+grande área de Teoria da Computação. O evento é voltado para os alunos em formação, 
+em nível de prós-graduação e iniciação científica, mas também visa proporcionar uma 
+maior integração entre os pesquisadores e profissionais que atuam principalmente na 
+região nordeste, seja com enfoque em teoria pura ou em aplicações, estimulando a 
+discussão da importância dos fundamentos da computação e sua aplicação direta no 
+entendimento e resolução de problemas das mais diversas áreas..
 
 
 <h2>Orientações de submissão</h2>
