@@ -13,7 +13,7 @@ permalink: /cfp/
 TeoCOMP-NE - 2019 <br>
 I Escola Regional de Teoria da Computação  <br>
 Salvador, 2 a 4 de maio de 2019  <br>
-https://teocompne2019.github.io/  <br>
+[teocompne2019.github.io](https://teocompne2019.github.io/)  <br>
 ============================================ <br>
 </h2>
 <br>
@@ -27,7 +27,7 @@ https://teocompne2019.github.io/  <br>
 
 <p>Submissões devem ser realizadas em <a href="https://easychair.org/conferences/?conf=teocompne2019" target="_blank">https://easychair.org/conferences/?conf=teocompne2019</a></p>
 
-<p>Inscrições devem ser realizadas em&nbsp;https://teocompne2019.github.io/</p>
+Inscrições devem ser realizadas em [teocompne2019.github.io](https://teocompne2019.github.io/)
 
 <p>Convidamos a comunidade a compartilhar resultados de pesquisa por meio da submissão de resumos estendidos de no máximo 4 (quatro) páginas, seguindo o modelo de artigo da SBC (feito em latex preferencialmente, ou doc, disponível em&nbsp;<a href="http://tinyurl.com/sbc-template-artigos" target="_blank">http://tinyurl.com/sbc-template-artigos</a>, mas, submetendo o pdf do artigo por meio do sistema EasyChair <a href="https://easychair.org/conferences/?conf=teocompne2019" target="_blank">https://easychair.org/conferences/?conf=teocompne2019</a>&nbsp;). Os trabalhos a serem submetidos podem descrever pesquisas em andamento e/ou recentemente publicadas.</p>
 
