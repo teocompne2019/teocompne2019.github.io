@@ -1,5 +1,16 @@
 /* overrides */
 
+hr { 
+    display: block;
+    margin-before: 0.5em;
+    margin-after: 0.5em;
+    margin-start: auto;
+    margin-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
 .buttonz a { padding: 0 !important; }
 #schedule .btn-side { text-align: center; padding: 0px 20px; width: auto; }
 
