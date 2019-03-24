@@ -9,7 +9,7 @@ permalink: /locations/
 
 O evento será realizado nas dependências do Instituto de Matemática e Estatística da Universidade Federal da Bahia.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vBgoTWNbMqdfWdZ7A53KZDfuTR5tRZm0" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1IeHtzXlE7yjD-UbQnpj6MMG8Zmvg7ejF" width="640" height="480"></iframe>
 
 # Hospedagem
 
