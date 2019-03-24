@@ -6,7 +6,7 @@ permalink: /cfp/
 ---
 
 <center>
-<h1>
+<h2>
 <br>
 <br>
 ============================================ <br>
@@ -15,7 +15,7 @@ I Escola Regional de Teoria da Computação  <br>
 Salvador, 2 a 4 de maio de 2019  <br>
 https://teocompne2019.github.io/  <br>
 ============================================ <br>
-</h1>
+</h2>
 <br>
 </center>
 
@@ -47,7 +47,7 @@ https://teocompne2019.github.io/  <br>
 	<p><strong>Linguagens de programação e semântica formal</strong>: linguagens de programação concorrentes e paralelas, sistemas de tipos, compiladores corretos, especificação algébrica e categorial.</p>
 	</li>
 	<li>
-	<p><strong>Lógica</strong>: lógicas clássicas e não-clássicas, lógica universal, lógicas modais, teoria dos modelos finitos, semântica, speificação e verificação formal, sistemas de re-escrita e dedução, aplicações de lógica em computação.</p>
+	<p><strong>Lógica</strong>: lógicas clássicas e não-clássicas, lógica universal, lógicas modais, teoria dos modelos finitos, semântica, especificação e verificação formal, sistemas de re-escrita e dedução, aplicações de lógica em computação.</p>
 	</li>
 	<li>
 	<p><strong>Modelos de Computação</strong>: modelos teóricos de computação, teoria da recursão, hipercomputação,&nbsp; modelos de computação concorrente, paralela e distribuída, computabilidade, aplicações.</p>
@@ -62,7 +62,7 @@ https://teocompne2019.github.io/  <br>
 	<p><strong>Teoria dos Grafos e Combinatória</strong>: caracterização estrutural, classes de grafos, reconhecimento, estruturas proibidas, problemas clássicos, desenho e layout de grafos, teoria espectral, grafos aleatórios, complexidade, algoritmos, aplicações.</p>
 	</li>
 	<li>
-	<p><strong>Geometria Computacional</strong>: espaços métricos, geometria de distâncias, algoritmos geométricos,estruturas baseadas em propriedades geométricas, estruturas espaciais, aplicações.</p>
+	<p><strong>Geometria Computacional</strong>: espaços métricos, geometria de distâncias, algoritmos geométricos, estruturas baseadas em propriedades geométricas, estruturas espaciais, aplicações.</p>
 	</li>
 </ul>
 
