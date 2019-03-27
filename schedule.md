@@ -15,9 +15,9 @@ permalink: /schedule/
 <tbody>
 <tr>
 <td style="width: 15%; background-color: #ff00ff; text-align: center;">&nbsp;<strong>Hor&aacute;rio</strong></td>
-<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Quarta-feira&quot;}"><strong>02/05/2019<br> Quarta-feira</strong></td>
-<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Quinta-feira&quot;}"><strong>03/05/2019<br> Quinta-feira</strong></td>
-<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sexta-feira&quot;}"><strong>04/05/2019<br> Sexta-feira</strong></td>
+<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Quinta-feira&quot;}"><strong>02/05/2019<br> Quinta-feira</strong></td>
+<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sexta-feira&quot;}"><strong>03/05/2019<br> Sexta-feira</strong></td>
+<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sábado&quot;}"><strong>04/05/2019<br> Sábado</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:00 - 10:30&quot;}">09:00 - 10:30</td>
@@ -75,7 +75,7 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;18:30 - 19:30&quot;}">18:30 - 19:30</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coquetel&quot;}">Coquetel</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
 </tr>
