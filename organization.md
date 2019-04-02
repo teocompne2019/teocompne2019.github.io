@@ -5,13 +5,6 @@ class: organization
 permalink: /organization/
 ---
 
-
-<form action="https://formspree.io/address@email.tld" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
-</form>
-
 # Comitê científico
 
    * [Ana Shirley Silva](http://www.lia.ufc.br/~anasilva/) (UFC, Brasil)
