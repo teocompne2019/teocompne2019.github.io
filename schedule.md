@@ -11,7 +11,7 @@ permalink: /schedule/
 
 
 <center>
-<table dir="ltr" style="width: 90%; height: 355px;" border="1" cellspacing="0" cellpadding="0">
+<table dir="ltr" style="width: 90%; height: 355px;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
 <td style="width: 15%; background-color: #ff00ff; text-align: center;">&nbsp;<strong>Hor&aacute;rio</strong></td>
