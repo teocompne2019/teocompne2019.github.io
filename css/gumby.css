@@ -9197,7 +9197,7 @@ input::-moz-focus-inner {
 .features-item:hover .features-circle {
   background-color: #f18f2b;
   border-color: #c03d20;
-  border-width: 8px;
+  border-width: 2px;
 }
 .features-item:hover .features-circle-icon {
   font-size: 80px;
