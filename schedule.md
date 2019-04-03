@@ -65,12 +65,12 @@ permalink: /schedule/
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16:30 - 17:30&quot;}">16:30 - 17:30</td>
 <td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-1&quot;}">ST-1</td>
 <td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-2&quot;}">ST-2</td>
-<td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-4&quot;}">ST-4</td>
+<td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-3&quot;}">ST-3</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;17:30 - 18:30&quot;}">17:30 - 18:30</td>
 <td style="background-color: #ffaaaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mesa Abertura&quot;}">Mesa Abertura</td>
-<td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-3&quot;}">ST-3</td>
+<td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-4&quot;}">ST-4</td>
 <td style="background-color: #ffaaaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Plen&aacute;ria do evento&quot;}">Plen&aacute;ria do evento</td>
 </tr>
 <tr>
