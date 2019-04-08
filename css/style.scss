@@ -169,10 +169,7 @@ table {
  */
 
 table.locations,
-table.keynotes {
-    margin-left:auto; 
-    margin-right:auto;
-},
+table.keynotes ,
 table.speaker-list {
   margin-bottom: 4rem;
   border-top: 3px solid white;
@@ -196,13 +193,15 @@ table.speaker-list {
 }
 .keynotes td {
   border-right: none;
+  text-align: center;
+  vertical-align: middle;
 }
 .keynote {
   text-align: center;
   width: 25%;
   padding-right: .5em;
   float: left;
-  vertical-align: top;
+  vertical-align: middle;
   transition: .5s padding;
 }
 @media (max-width: 600px) {
