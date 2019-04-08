@@ -169,7 +169,10 @@ table {
  */
 
 table.locations,
-table.keynotes,
+table.keynotes {
+    margin-left:auto; 
+    margin-right:auto;
+},
 table.speaker-list {
   margin-bottom: 4rem;
   border-top: 3px solid white;
