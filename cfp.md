@@ -88,8 +88,7 @@ até o dia 30 de abril de 2019.
 <hr>
   * [Cláudia Linhares](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4791337U9) (UFC)
   * [Joao Marcos](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1517271) (UFRN)
-  * [Taísa Martins](https://sites.google.com/site/taisalmartins/) (IMPA)
-  
+  * [Taísa Martins](https://sites.google.com/site/taisalmartins/) (IMPA)  
   * [Guilherme Mota](http://professor.ufabc.edu.br/~g.mota/) (UFABC)  
   * [Maria Viviane de Menezes](https://www.quixada.ufc.br/docente/maria-viviane-de-menezes/) (UFC)  
   * [Vinícius Fernandes dos Santos](https://homepages.dcc.ufmg.br/~viniciussantos/) (UFMG)
