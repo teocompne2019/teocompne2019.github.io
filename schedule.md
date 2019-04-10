@@ -74,7 +74,7 @@ permalink: /schedule/
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.8541666666666666}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}">20:30</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jantar&quot;}">Congraterniza&ccedil;&atilde;o</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jantar&quot;}">Confraterniza&ccedil;&atilde;o</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
 </tr>
 </tbody>
