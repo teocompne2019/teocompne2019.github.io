@@ -6,36 +6,38 @@ permalink: /organization/
 ---
 
 # Comitê científico
-   
-   * [Antonio Josefran de Oliveira Bastos](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4258877H0) (UFC)
-   * [Cláudia Linhares Sales](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4791337U9) (UFC)
-   * [Fabricio Siqueira Benevides](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4713901T3) (UFC)
-   * [Guilherme Oliveira Mota](http://professor.ufabc.edu.br/~g.mota/) (UFABC)
-   * [Joao Marcos de Almeida](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1517271) (UFRN)
-   * [Julio Cesar Silva Araujo](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4137385U7) (UFC)
-   * [Maria Viviane de Menezes](https://www.quixada.ufc.br/docente/maria-viviane-de-menezes/) (UFC)
-   * [Marlo Vieira dos Santos e Souza](http://www.cienciaecultura.ufba.br/agenciadenoticias/pesquisadores/marlo-vieira-dos-santos-e-souza/)  (UFBA)
-   * [Rafael Augusto de Melo](https://sites.google.com/site/demelora/) (UFBA)
-   * [Renata Wassermann](https://www.ime.usp.br/~renata/) (USP)
-   * [Roberto Freitas Parente](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4267849A0) (UFBA)
-   * [Sebastián Alberto Urrutia](https://homepages.dcc.ufmg.br/~surrutia/Site/About_Me.html) (UFMG)
+   * [Júlio Araújo](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4137385U7) (UFC)
+   * [Antonio Josefran Bastos](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4258877H0) (UFC)
+   * [Fabricio Benevides](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4713901T3) (UFC)
+   * [Tiago Januario](http://tiagojanuario.com.br/) (UFBA)
+   * [Cláudia Linhares](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4791337U9) (UFC)      
+   * [Joao Marcos](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1517271) (UFRN)
    * [Taísa Lopes Martins](https://sites.google.com/site/taisalmartins/) (IMPA)
-   * [Tiago de Oliveira Januario](http://tiagojanuario.com.br/) (UFBA)
-   * [Vinícius Fernandes dos Santos](https://homepages.dcc.ufmg.br/~viniciussantos/) (UFMG)
+   * [Rafael Melo](https://sites.google.com/site/demelora/) (UFBA)
+   * [Maria Viviane de Menezes](https://www.quixada.ufc.br/docente/maria-viviane-de-menezes/) (UFC)
+   * [Guilherme Mota](http://professor.ufabc.edu.br/~g.mota/) (UFABC)
+   * [Roberto Parente](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4267849A0) (UFBA)
+   * [Vinícius dos Santos](https://homepages.dcc.ufmg.br/~viniciussantos/) (UFMG)
+   * [Ana Shirley Silva](http://www.lia.ufc.br/~anasilva/) (UFC, Brasil)   
+   * [Marlo Souza](http://www.cienciaecultura.ufba.br/agenciadenoticias/pesquisadores/marlo-vieira-dos-santos-e-souza/) (UFBA)
+   * [Sebastián Urrutia](https://homepages.dcc.ufmg.br/~surrutia/Site/About_Me.html) (UFMG)   
+   * [Renata Wassermann](https://www.ime.usp.br/~renata/) (USP)  
+   
 
 # Comitê de organização
    
-   * [Antonio Josefran de Oliveira Bastos](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4258877H0) (UFC)
-   * [Cláudia Linhares Sales](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4791337U9) (UFC)
-   * [Julio Cesar Silva Araujo](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4137385U7) (UFC)
-   * [Marlo Vieira dos Santos e Souza](http://www.cienciaecultura.ufba.br/agenciadenoticias/pesquisadores/marlo-vieira-dos-santos-e-souza/)  (UFBA)
-   * [Rafael Augusto de Melo](https://sites.google.com/site/demelora/) (UFBA)
-   * [Roberto Freitas Parente](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4267849A0) (DCC-UFBA)   
-   * [Tiago de Oliveira Januario](http://tiagojanuario.com.br/) (UFBA)
-
+   * [Júlio Araújo](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4137385U7) (UFC)
+   * [Antonio Josefran Bastos](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4258877H0) (UFC)
+   * [Tiago Januario](http://tiagojanuario.com.br/) (UFBA)
+   * [Cláudia Linhares](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4791337U9) (UFC)   
+   * [Rafael Melo](https://sites.google.com/site/demelora/) (UFBA)
+   * [Roberto Parente](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4267849A0) (DCC-UFBA)   
+   * [Marlo Souza](http://www.cienciaecultura.ufba.br/agenciadenoticias/pesquisadores/marlo-vieira-dos-santos-e-souza/)  (UFBA)
+   
 # Comitê local
-   * [Marlo Vieira dos Santos e Souza](http://www.cienciaecultura.ufba.br/agenciadenoticias/pesquisadores/marlo-vieira-dos-santos-e-souza/)  (UFBA)
-   * [Rafael Augusto de Melo](https://sites.google.com/site/demelora/) (UFBA)
-   * [Roberto Freitas Parente](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4267849A0) (UFBA)
-   * [Tiago de Oliveira Januario](http://tiagojanuario.com.br/) (UFBA)
+   
+   * [Tiago Januario](http://tiagojanuario.com.br/) (UFBA)
+   * [Rafael Melo](https://sites.google.com/site/demelora/) (UFBA)
+   * [Roberto Parente](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4267849A0) (DCC-UFBA)   
+   * [Marlo Souza](http://www.cienciaecultura.ufba.br/agenciadenoticias/pesquisadores/marlo-vieira-dos-santos-e-souza/)  (UFBA)
 
