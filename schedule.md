@@ -15,80 +15,66 @@ permalink: /schedule/
 <tbody>
 <tr>
 <td style="width: 15%; background-color: #ff00ff; text-align: center;">&nbsp;<strong>Hor&aacute;rio</strong></td>
-<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Quinta-feira&quot;}"><strong>02/05/2019<br> Quinta-feira</strong></td>
-<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sexta-feira&quot;}"><strong>03/05/2019<br> Sexta-feira</strong></td>
-<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sábado&quot;}"><strong>04/05/2019<br> Sábado</strong></td>
+<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Quinta-feira&quot;}"><strong>02/05/2019<br /> Quinta-feira</strong></td>
+<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sexta-feira&quot;}"><strong>03/05/2019<br /> Sexta-feira</strong></td>
+<td style="width: 25%; background-color: #ff00ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;S&aacute;bado&quot;}"><strong>04/05/2019<br /> S&aacute;bado</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:00 - 10:30&quot;}">09:00 - 10:30</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:00 - 10:30&quot;}">10:00 - 11:30</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">Mini-curso-1</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">Mini-curso-3</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">Mini-curso-5</td>
 </tr>
 <tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:30 - 11:00&quot;}">10:30 - 11:00</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:30 - 11:00&quot;}">11:30 - 13:00</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Coffee Break</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Coffee Break</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Coffee Break</td>
 </tr>
 <tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:00 - 12:30&quot;}">11:00 - 12:30</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:00 - 12:30&quot;}">13:00 - 14:30</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-2&quot;}">Mini-curso-2</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-4&quot;}">Mini-curso-4</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-6&quot;}">Mini-curso-6</td>
 </tr>
 <tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12:30 - 14:00&quot;}">12:30 - 14:00</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12:30 - 14:00&quot;}">14:30 - 15:00</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Almo&ccedil;o&quot;}">Almo&ccedil;o</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Almo&ccedil;o&quot;}">Almo&ccedil;o</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Almo&ccedil;o&quot;}">Almo&ccedil;o</td>
 </tr>
 <tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14:00 - 15:00&quot;}">14:00 - 15:00</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14:00 - 15:00&quot;}">15:00 - 16:00</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-1&quot;}">Confer&ecirc;ncia-1</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-3&quot;}">Confer&ecirc;ncia-3</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-5&quot;}">Confer&ecirc;ncia-5</td>
 </tr>
 <tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15:00 - 16:00&quot;}">15:00 - 16:00</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15:00 - 16:00&quot;}">16:00 - 17:00</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-2&quot;}">Confer&ecirc;ncia-2</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-4&quot;}">Confer&ecirc;ncia-4</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}">Confer&ecirc;ncia-6</td>
 </tr>
 <tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16:00 - 16:30&quot;}">16:00 - 16:30</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16:00 - 16:30&quot;}">17:00 - 17:30</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Coffee Break</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Coffee Break</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Coffee Break</td>
 </tr>
 <tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16:30 - 17:30&quot;}">16:30 - 17:30</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16:30 - 17:30&quot;}">17:30 - 18:30</td>
 <td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-1&quot;}">ST-1</td>
-<td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-3&quot;}">ST-3</td>
-<td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-4&quot;}">ST-4</td>
+<td style="background-color: #ffaaaa; text-align: center;" rowspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-3&quot;}">Mesa Redonda</td>
+<td style="background-color: #ffaaaa; text-align: center;" rowspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-4&quot;}">Plen&aacute;ria do evento</td>
 </tr>
 <tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;17:30 - 18:30&quot;}">17:30 - 18:30</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;17:30 - 18:30&quot;}">18:30 - 19:30</td>
 <td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-2&quot;}">ST-2</td>
-<td style="background-color: #ffaaaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mesa Redonda&quot;}">Mesa Redonda</td>
-<td style="background-color: #ffaaaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Plen&aacute;ria do evento&quot;}">Plen&aacute;ria do evento</td>
-</tr>
-<tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;18:30 - 19:30&quot;}">18:30 - 19:30</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
-</tr>
-<tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;19:30 - 20:30&quot;}">19:30 - 20:30</td>
-<td style="width: 125.1875px;">&nbsp;</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.8541666666666666}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}">20:30</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jantar&quot;}">Jantar</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jantar&quot;}">Congraterniza&ccedil;&atilde;o</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
 </tr>
 </tbody>
