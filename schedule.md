@@ -91,7 +91,7 @@ permalink: /schedule/
 <p><code>Confer&ecirc;ncia-x</code>: Ser&atilde;o ministradas confer&ecirc;ncias com dura&ccedil;&atilde;o de uma hora.</p>
 </li>
 <li>
-<p><code>Mini-curso-x</code>: Ser&atilde;o ministrados seis mini-cursos com dura&ccedil;&atilde;o de uma hora e meia.</p>
+<p><code>Mini-curso</code>: Ser&atilde;o ministrados tr&ecirc;s minicursos com dura&ccedil;&atilde;o total de 6 (seis) horas divididos em dois momentos de 1h e 30 minutos.</p>
 </li>
 <li>
 <p><code>Coquetel</code>: Um coquetel de abertura ser&aacute; organizado no hall do local do evento. O objetivo &eacute; receber os participantes, e propiciar um ambiente de integra&ccedil;&atilde;o entre os mesmos.</p>
