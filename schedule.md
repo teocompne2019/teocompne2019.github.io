@@ -21,27 +21,27 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:00 - 10:30&quot;}">10:00 - 11:30</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">Mini-curso-1</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">Mini-curso-3</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">Mini-curso-5</td>
+<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">Minicurso <br /> (Guilherme Mota)</td>
+<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">Minicurso <br /> (Maria Viviane de Menezes)</td>
+<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">Minicurso <br /> (Vinícius dos Santos)</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:30 - 11:00&quot;}">11:30 - 13:00</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Coffee Break</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Coffee Break</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Coffee Break</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Almo&ccedil;o</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Almo&ccedil;o</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee Break&quot;}">Almo&ccedil;o</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:00 - 12:30&quot;}">13:00 - 14:30</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-2&quot;}">Mini-curso-2</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-4&quot;}">Mini-curso-4</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-6&quot;}">Mini-curso-6</td>
+<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">Minicurso <br /> (Vinícius dos Santos)</td>
+<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">Minicurso <br /> (Guilherme Mota)</td>
+<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">Minicurso <br /> (Maria Viviane de Menezes)</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12:30 - 14:00&quot;}">14:30 - 15:00</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Almo&ccedil;o&quot;}">Almo&ccedil;o</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Almo&ccedil;o&quot;}">Almo&ccedil;o</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Almo&ccedil;o&quot;}">Almo&ccedil;o</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Almo&ccedil;o&quot;}">Coffee Break</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Almo&ccedil;o&quot;}">Coffee Break</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Almo&ccedil;o&quot;}">Coffee Break</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14:00 - 15:00&quot;}">15:00 - 16:00</td>
@@ -85,7 +85,7 @@ permalink: /schedule/
 <p><strong>Legenda</strong>:</p>
 <ul>
 <li>
-<p><code>ST-x</code>: A escola est&aacute; planejada com 4 Sess&otilde;es T&eacute;cnicas contendo tr&ecirc;s apresenta&ccedil;&otilde;es em cada uma delas. O tempo de apresenta&ccedil;&atilde;o ser&aacute; de 20 minutos para cada trabalho, com 15 minutos de exposi&ccedil;&atilde;o e 5 minutos de perguntas da plat&eacute;ia.</p>
+<p><code>ST-x</code>: A escola est&aacute; planejada com 2 Sess&otilde;es T&eacute;cnicas contendo tr&ecirc;s apresenta&ccedil;&otilde;es em cada uma delas. O tempo de apresenta&ccedil;&atilde;o ser&aacute; de 20 minutos para cada trabalho, com 15 minutos de exposi&ccedil;&atilde;o e 5 minutos de perguntas da plat&eacute;ia.</p>
 </li>
 <li>
 <p><code>Confer&ecirc;ncia-x</code>: Ser&atilde;o ministradas confer&ecirc;ncias com dura&ccedil;&atilde;o de uma hora.</p>
