@@ -91,16 +91,13 @@ permalink: /schedule/
 <p><code>Confer&ecirc;ncia-x</code>: Ser&atilde;o ministradas confer&ecirc;ncias com dura&ccedil;&atilde;o de uma hora.</p>
 </li>
 <li>
-<p><code>Mini-curso</code>: Ser&atilde;o ministrados tr&ecirc;s minicursos com dura&ccedil;&atilde;o total de 6 (seis) horas divididos em dois momentos de 1h e 30 minutos.</p>
+<p><code>Minicurso</code>: Ser&atilde;o ministrados tr&ecirc;s minicursos com dura&ccedil;&atilde;o total de 6 (seis) horas divididos em dois momentos de 1h e 30 minutos.</p>
 </li>
 <li>
-<p><code>Coquetel</code>: Um coquetel de abertura ser&aacute; organizado no hall do local do evento. O objetivo &eacute; receber os participantes, e propiciar um ambiente de integra&ccedil;&atilde;o entre os mesmos.</p>
+<p><code>Contraternização</code>: Será escolhido um local para realizar uma confraternização informal entre os participantes do evento e propiciar um ambiente de integra&ccedil;&atilde;o entre os mesmos.</p>
 </li>
 <li>
-<p><code>Jantar</code>: O planejamento do evento conta com um jantar, cujo pre&ccedil;o tamb&eacute;m est&aacute; incluso no pre&ccedil;o das inscri&ccedil;&otilde;es.</p>
-</li>
-<li>
-<p><code>Mesa Abertura</code>: Uma mesa redonda com participa&ccedil;&atilde;o de pesquisadores seniores versar&aacute; sobre &ldquo;Possibilidades de colabora&ccedil;&atilde;o entre as sub&aacute;reas da Teoria da Computa&ccedil;&atilde;o&rdquo;.</p>
+<p><code>Mesa Abertura</code>: Uma mesa redonda com participa&ccedil;&atilde;o de um pesquisadores de cada &aacute;rea para versar&aacute; sobre &ldquo;Ensino e Formação em da Teoria da Computa&ccedil;&atilde;o&rdquo;.</p>
 </li>
 <li>
 <p><code>Plen&aacute;ria evento</code>: Reuni&atilde;o entre os pesquisadores participantes com objetivo de avaliar o evento e definir a pr&oacute;ximas edi&ccedil;&otilde;es do mesmo.</p>
