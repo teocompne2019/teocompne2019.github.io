@@ -22,7 +22,10 @@ permalink: /schedule/
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:00 - 10:30&quot;}">10:00 - 11:30</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">Minicurso <br /> (Guilherme Mota)</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">Minicurso <br /> (Maria Viviane de Menezes)</td>
+<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
+	<strong>BDDs - Você deveria conhecê-los!</strong><br />
+	Maria Viviane de Menezes (UFC)
+	</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">Minicurso <br /> (Vinícius dos Santos)</td>
 </tr>
 <tr>
@@ -35,7 +38,10 @@ permalink: /schedule/
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:00 - 12:30&quot;}">13:00 - 14:30</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">Minicurso <br /> (Vinícius dos Santos)</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">Minicurso <br /> (Guilherme Mota)</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">Minicurso <br /> (Maria Viviane de Menezes)</td>
+<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
+	<strong>BDDs - Você deveria conhecê-los!</strong><br />
+	Maria Viviane de Menezes (UFC)
+	</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12:30 - 14:00&quot;}">14:30 - 15:00</td>
@@ -45,15 +51,33 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14:00 - 15:00&quot;}">15:00 - 16:00</td>
-<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-1&quot;}">Confer&ecirc;ncia-1</td>
-<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-3&quot;}">Confer&ecirc;ncia-3</td>
-<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-5&quot;}">Confer&ecirc;ncia-5</td>
+<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-1&quot;}">
+	Confer&ecirc;ncia-1<br \>
+	Guilherme Mota (UFABC)
+	</td>
+<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-3&quot;}">
+	<strong>Quebrando o C&oacute;digo da Matem&aacute;tica</strong><br />
+	Jo&atilde;o Marcos (UFRN)
+	</td>
+<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-5&quot;}">
+	Confer&ecirc;ncia-5<br \>
+	Cl&aacute;udia Linhares (UFC)
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15:00 - 16:00&quot;}">16:00 - 17:00</td>
-<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-2&quot;}">Confer&ecirc;ncia-2</td>
-<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-4&quot;}">Confer&ecirc;ncia-4</td>
-<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}">Confer&ecirc;ncia-6</td>
+<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-2&quot;}">
+	<strong>Planejamento em Inteligência Artificial</strong>
+	Maria Viviane de Menezes (UFC)
+	</td>
+<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-4&quot;}">
+	Confer&ecirc;ncia-4<br \>
+	Vin&iacute;cius Santos (UFMG)
+</td>
+<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}">
+	Confer&ecirc;ncia-6<br \>
+	Ta&iacute;sa Martins (IMPA)
+
+</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16:00 - 16:30&quot;}">17:00 - 17:30</td>
