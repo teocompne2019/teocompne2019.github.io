@@ -52,7 +52,7 @@ permalink: /schedule/
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14:00 - 15:00&quot;}">15:00 - 16:00</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-1&quot;}">
-	Confer&ecirc;ncia-1<br />
+	<strong>Confer&ecirc;ncia-1</strong><br />
 	Guilherme Mota (UFABC)
 	</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-3&quot;}">
@@ -60,22 +60,22 @@ permalink: /schedule/
 	Jo&atilde;o Marcos (UFRN)
 	</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-5&quot;}">
-	Confer&ecirc;ncia-5<br />
+	<strong>Confer&ecirc;ncia-5</strong><br />
 	Cl&aacute;udia Linhares (UFC)
 	</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15:00 - 16:00&quot;}">16:00 - 17:00</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-2&quot;}">
-	<strong>Planejamento em Inteligência Artificial</strong>
+	<strong>Planejamento em Inteligência Artificial</strong><br />
 	Maria Viviane de Menezes (UFC)
 	</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-4&quot;}">
-	Confer&ecirc;ncia-4<br />
+	<strong>Confer&ecirc;ncia-4</strong><br />
 	Vin&iacute;cius Santos (UFMG)
 	</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}">
-	Confer&ecirc;ncia-6<br />
+	<strong>Confer&ecirc;ncia-6</strong><br />
 	Ta&iacute;sa Martins (IMPA)
 	</td>
 </tr>
