@@ -65,7 +65,8 @@ permalink: /schedule/
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16:30 - 17:30&quot;}">17:30 - 18:30</td>
 <td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-1&quot;}">ST-1</td>
 <td style="background-color: #ffaaaa; text-align: center;" rowspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-3&quot;}">
-	Mesa Redonda: Ensino e forma&ccedil; &atilde;o na &aacute;rea de Teoria da Computa&ccedil; &atilde;o<br /> Cl&aacute;udia Linhares (UFC), Jo &atilde;o Marcos (UFRN) e Guilherme Mota (UFABC).
+	<strong>Mesa Redonda: Ensino e forma&ccedil;&atilde;o na &aacute;rea de Teoria da Computa&ccedil;&atilde;o</strong><br />
+	Cl&aacute;udia Linhares (UFC), Jo&atilde;o Marcos (UFRN) e Guilherme Mota (UFABC).
 	</td>
 <td style="background-color: #ffaaaa; text-align: center;" rowspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-4&quot;}">Plen&aacute;ria do evento</td>
 </tr>
