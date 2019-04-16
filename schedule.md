@@ -62,6 +62,7 @@ permalink: /schedule/
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-5&quot;}">
 	Confer&ecirc;ncia-5<br \>
 	Cl&aacute;udia Linhares (UFC)
+	</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15:00 - 16:00&quot;}">16:00 - 17:00</td>
@@ -72,12 +73,11 @@ permalink: /schedule/
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-4&quot;}">
 	Confer&ecirc;ncia-4<br \>
 	Vin&iacute;cius Santos (UFMG)
-</td>
+	</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}">
 	Confer&ecirc;ncia-6<br \>
 	Ta&iacute;sa Martins (IMPA)
-
-</td>
+	</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16:00 - 16:30&quot;}">17:00 - 17:30</td>
