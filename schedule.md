@@ -26,7 +26,7 @@ permalink: /schedule/
 	Guilherme Mota (UFABC)
 	</td>
 <td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
-	<strong>BDDs - Você deveria conhecê-los!</strong><br />
+	<strong>Minicurso: BDDs - Você deveria conhecê-los!</strong><br />
 	Maria Viviane de Menezes (UFC)
 	</td>
 <td style="background-color: #b6d7a8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">
@@ -51,7 +51,7 @@ permalink: /schedule/
 	Guilherme Mota (UFABC)
 	</td>
 <td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
-	<strong>BDDs - Você deveria conhecê-los!</strong><br />
+	<strong>Minicurso: BDDs - Você deveria conhecê-los!</strong><br />
 	Maria Viviane de Menezes (UFC)
 	</td>
 </tr>
