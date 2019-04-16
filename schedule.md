@@ -21,7 +21,7 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:00 - 10:30&quot;}">10:00 - 11:30</td>
-<td style="background-color: #59c5c7; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">
+<td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">
 	<strong>Minicurso</strong> <br /> (Guilherme Mota)
 	</td>
 <td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
@@ -41,7 +41,7 @@ permalink: /schedule/
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:00 - 12:30&quot;}">13:00 - 14:30</td>
 <td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">Minicurso <br /> (Vinícius dos Santos)</td>
-<td style="background-color: #59c5c7; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">
+<td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">
 	<strong>Minicurso</strong><br />
 	Guilherme Mota (UFABC)
 	</td>
@@ -58,7 +58,7 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14:00 - 15:00&quot;}">15:00 - 16:00</td>
-<td style="background-color: #59c5c7; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-1&quot;}">
+<td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-1&quot;}">
 	<strong>Confer&ecirc;ncia-1</strong><br />
 	Guilherme Mota (UFABC)
 	</td>
@@ -81,7 +81,7 @@ permalink: /schedule/
 	<strong>Confer&ecirc;ncia-4</strong><br />
 	Vin&iacute;cius Santos (UFMG)
 	</td>
-<td style="background-color: #59c5c7; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}">
+<td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}">
 	<strong>Confer&ecirc;ncia-6</strong><br />
 	Ta&iacute;sa Martins (IMPA)
 	</td>
