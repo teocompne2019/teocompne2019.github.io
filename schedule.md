@@ -24,11 +24,13 @@ permalink: /schedule/
 <td style="background-color: #59c5c7; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">
 	<strong>Minicurso</strong> <br /> (Guilherme Mota)
 	</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
+<td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
 	<strong>BDDs - Você deveria conhecê-los!</strong><br />
 	Maria Viviane de Menezes (UFC)
 	</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">Minicurso <br /> (Vinícius dos Santos)</td>
+<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">
+	<strong>Minicurso</strong><br />
+	(Vinícius dos Santos)</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:30 - 11:00&quot;}">11:30 - 13:00</td>
@@ -43,7 +45,7 @@ permalink: /schedule/
 	<strong>Minicurso</strong><br />
 	Guilherme Mota (UFABC)
 	</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
+<td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
 	<strong>BDDs - Você deveria conhecê-los!</strong><br />
 	Maria Viviane de Menezes (UFC)
 	</td>
@@ -60,7 +62,7 @@ permalink: /schedule/
 	<strong>Confer&ecirc;ncia-1</strong><br />
 	Guilherme Mota (UFABC)
 	</td>
-<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-3&quot;}">
+<td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-3&quot;}">
 	<strong>Quebrando o C&oacute;digo da Matem&aacute;tica</strong><br />
 	Jo&atilde;o Marcos (UFRN)
 	</td>
@@ -71,7 +73,7 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15:00 - 16:00&quot;}">16:00 - 17:00</td>
-<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-2&quot;}">
+<td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-2&quot;}">
 	<strong>Planejamento em Inteligência Artificial</strong><br />
 	Maria Viviane de Menezes (UFC)
 	</td>
