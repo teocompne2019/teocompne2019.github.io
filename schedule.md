@@ -22,15 +22,17 @@ permalink: /schedule/
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:00 - 10:30&quot;}">10:00 - 11:30</td>
 <td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">
-	<strong>Minicurso</strong> <br /> (Guilherme Mota)
+	<strong>Minicurso</strong> <br />
+	Guilherme Mota (UFABC)
 	</td>
 <td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
 	<strong>BDDs - Você deveria conhecê-los!</strong><br />
 	Maria Viviane de Menezes (UFC)
 	</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">
+<td style="background-color: #b6d7a8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">
 	<strong>Minicurso</strong><br />
-	(Vinícius dos Santos)</td>
+	Vinícius dos Santos (UFMG)
+	</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:30 - 11:00&quot;}">11:30 - 13:00</td>
@@ -40,7 +42,10 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:00 - 12:30&quot;}">13:00 - 14:30</td>
-<td style="background-color: #9999ff; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">Minicurso <br /> (Vinícius dos Santos)</td>
+<td style="background-color: #b6d7a8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">
+	<strong>Minicurso</strong><br />
+	Vinícius dos Santos (UFMG)
+	</td>
 <td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">
 	<strong>Minicurso</strong><br />
 	Guilherme Mota (UFABC)
@@ -66,7 +71,7 @@ permalink: /schedule/
 	<strong>Quebrando o C&oacute;digo da Matem&aacute;tica</strong><br />
 	Jo&atilde;o Marcos (UFRN)
 	</td>
-<td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-5&quot;}">
+<td style="background-color: #b6d7a8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-5&quot;}">
 	<strong>Confer&ecirc;ncia-5</strong><br />
 	Cl&aacute;udia Linhares (UFC)
 	</td>
@@ -106,9 +111,11 @@ permalink: /schedule/
 <td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-2&quot;}">ST-2</td>
 </tr>
 <tr>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.8541666666666666}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}">20:30</td>
+	<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.8541666666666666}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}">
+		20:30
+	</td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
-<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jantar&quot;}">Confraterniza&ccedil;&atilde;o</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jantar&quot;}"><strong>Confraterniza&ccedil;&atilde;o</strong></td>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;-&quot;}">-</td>
 </tr>
 </tbody>
@@ -131,7 +138,7 @@ permalink: /schedule/
 <p><code>Contraternização</code>: Será escolhido um local para realizar uma confraternização informal entre os participantes do evento e propiciar um ambiente de integra&ccedil;&atilde;o entre os mesmos.</p>
 </li>
 <li>
-<p><code>Mesa Abertura</code>: Uma mesa redonda com participa&ccedil;&atilde;o de um pesquisadores de cada &aacute;rea para versar&aacute; sobre &ldquo;Ensino e Formação em da Teoria da Computa&ccedil;&atilde;o&rdquo;.</p>
+<p><code>Mesa redonda</code>: Uma mesa redonda com participa&ccedil;&atilde;o de um pesquisadores de cada &aacute;rea para versar&aacute; sobre &ldquo;Ensino e Forma&ccedil;&aatilde;o em da Teoria da Computa&ccedil;&atilde;o&rdquo;. Cada convidado ter&aacute; entre 15 e 20 minutos de apresenta&ccedil;&atilde;o e depois ser&aacute; aberto para participantes fazerem perguntas relacionadas ao tema.</p>
 </li>
 <li>
 <p><code>Plen&aacute;ria evento</code>: Reuni&atilde;o entre os pesquisadores participantes com objetivo de avaliar o evento e definir a pr&oacute;ximas edi&ccedil;&otilde;es do mesmo.</p>
