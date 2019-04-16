@@ -52,7 +52,7 @@ permalink: /schedule/
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14:00 - 15:00&quot;}">15:00 - 16:00</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-1&quot;}">
-	Confer&ecirc;ncia-1<br \>
+	Confer&ecirc;ncia-1<br />
 	Guilherme Mota (UFABC)
 	</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-3&quot;}">
@@ -60,7 +60,7 @@ permalink: /schedule/
 	Jo&atilde;o Marcos (UFRN)
 	</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-5&quot;}">
-	Confer&ecirc;ncia-5<br \>
+	Confer&ecirc;ncia-5<br />
 	Cl&aacute;udia Linhares (UFC)
 	</td>
 </tr>
@@ -71,11 +71,11 @@ permalink: /schedule/
 	Maria Viviane de Menezes (UFC)
 	</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-4&quot;}">
-	Confer&ecirc;ncia-4<br \>
+	Confer&ecirc;ncia-4<br />
 	Vin&iacute;cius Santos (UFMG)
 	</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}">
-	Confer&ecirc;ncia-6<br \>
+	Confer&ecirc;ncia-6<br />
 	Ta&iacute;sa Martins (IMPA)
 	</td>
 </tr>
