@@ -64,7 +64,7 @@ permalink: /schedule/
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14:00 - 15:00&quot;}">15:00 - 16:00</td>
 <td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-1&quot;}">
-	<strong>Confer&ecirc;ncia-1</strong><br />
+	<strong>Combinatória Extremal: Árvores monocromáticas em grafos aleatórios</strong><br />
 	Guilherme Mota (UFABC)
 	</td>
 <td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-3&quot;}">
@@ -104,7 +104,7 @@ permalink: /schedule/
 	<strong>Mesa Redonda: Ensino e forma&ccedil;&atilde;o na &aacute;rea de Teoria da Computa&ccedil;&atilde;o</strong><br />
 	Cl&aacute;udia Linhares (UFC), Jo&atilde;o Marcos (UFRN) e Guilherme Mota (UFABC).
 	</td>
-<td style="background-color: #ffaaaa; text-align: center;" rowspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-4&quot;}">Plen&aacute;ria do evento</td>
+<td style="background-color: #ffaaaa; text-align: center;" rowspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-4&quot;}"><strong>Plen&aacute;ria do evento</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;17:30 - 18:30&quot;}">18:30 - 19:30</td>
