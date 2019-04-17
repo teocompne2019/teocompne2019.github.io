@@ -22,7 +22,7 @@ permalink: /schedule/
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:00 - 10:30&quot;}">10:00 - 11:30</td>
 <td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">
-	<strong>Minicurso</strong> <br />
+	<strong>Minicurso: Teoria de Ramsey: Introdução e avanços recentes</strong> <br />
 	Guilherme Mota (UFABC)
 	</td>
 <td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
@@ -30,7 +30,7 @@ permalink: /schedule/
 	Maria Viviane de Menezes (UFC)
 	</td>
 <td style="background-color: #b6d7a8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">
-	<strong>Minicurso</strong><br />
+	<strong>Minicurso: Introdução à Complexidade Parametrizada</strong><br />
 	Vinícius dos Santos (UFMG)
 	</td>
 </tr>
@@ -43,11 +43,11 @@ permalink: /schedule/
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:00 - 12:30&quot;}">13:00 - 14:30</td>
 <td style="background-color: #b6d7a8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}">
-	<strong>Minicurso</strong><br />
+	<strong>Minicurso: Introdução à Complexidade Parametrizada</strong><br />
 	Vinícius dos Santos (UFMG)
 	</td>
 <td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}">
-	<strong>Minicurso</strong><br />
+	<strong>Minicurso: Teoria de Ramsey: Introdução e avanços recentes</strong><br />
 	Guilherme Mota (UFABC)
 	</td>
 <td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}">
