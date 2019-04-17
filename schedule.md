@@ -87,7 +87,7 @@ permalink: /schedule/
 	Vin&iacute;cius Santos (UFMG)
 	</td>
 <td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}">
-	<strong>Confer&ecirc;ncia-6</strong><br />
+	<strong>Saturação fraca de grafos bipartidos completos</strong><br />
 	Ta&iacute;sa Martins (IMPA)
 	</td>
 </tr>
