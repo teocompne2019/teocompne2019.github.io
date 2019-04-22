@@ -146,3 +146,44 @@ permalink: /schedule/
 </ul>
 
 
+# Teste
+
+
+    <table class="keynotes"  align="center">
+      <tr>
+        <th class="speaker" colspan="3">Convidados</th>
+      </tr>
+      <tr  align="center">
+        <td align="center">
+        
+          <input id="keynote-2"
+                 class="keynote-selector"
+                 type="checkbox"/><div class="keynote">
+            <label class="image"
+              for="keynote-2"
+              style="background-image: url(/img/claudia.png)">
+            </label>
+            <h3><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4791337U9">Claudia Linhares</a></h3>
+            <p class="bio">
+              Claudia Linhares Sales possui mestrado em Engenharia de Sistemas e
+               Computação pela Universidade Federal do Rio de Janeiro (1990) e doutorado 
+               em Informatique - Recherche Operationnelle - Université de Grenoble I 
+               (Scientifique Et Medicale - Joseph Fourier) (1996). Fez pós-doutorado no 
+               INRIA/Sophia-Antipolis, França, em 2006/2007 e na Simon Fraiser University, 
+               em Vancouver, no Canadá, em 2015/2016. É professora titular da Universidade 
+               Federal do Ceará. Ocupou o cargo de Diretora Científica da FUNCAP (Fundação 
+               Cearense de Apoio ao Desenvolvimento Científico e Tecnológico) em 2010-2011 
+               e 2012-2014. Tem experiência na área de Ciência da Computação, com ênfase 
+               em Teoria dos Grafos e Algoritmos, atuando principalmente nos temas de 
+               coloração e decomposição de grafos. É membro do corpo permanente da Linha 
+               de Algoritmos do Mestrado e Doutorado em Ciência da Computação e da Linha 
+               de Combinatória do Programa de Pós-graduação da Matemática. Coordena o 
+               Grupo de Interesse de Algortimos e Teoria dos Grafos da Comissão Especial 
+               de Algoritmos, Combinatória e Otimização da SBC (Sociedade Brasileira de 
+               Computação). É atualmente Secretária Regional da Sociedade Brasileira para 
+               o Progresso da Ciência (SBPC) e Conselheira do Museu Seara da Ciência da UFC. 
+            </p>
+</div>
+</td>
+      </tr>
+</table>
