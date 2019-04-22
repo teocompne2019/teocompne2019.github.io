@@ -72,7 +72,7 @@ permalink: /schedule/
 	Jo&atilde;o Marcos (UFRN)
 	</td>
 <td style="background-color: #b6d7a8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-5&quot;}">
-	<strong>Confer&ecirc;ncia-5</strong><br />
+	<strong>Algoritmos Exatos e Heurísticas de Colorações de Grafos</strong><br />
 	Cl&aacute;udia Linhares (UFC)
 	</td>
 </tr>
