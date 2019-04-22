@@ -148,7 +148,7 @@ permalink: /schedule/
 
 # Teste
 
-
+<body>
     <table class="keynotes"  align="center">
       <tr>
         <th class="speaker" colspan="3">Convidados</th>
@@ -187,3 +187,5 @@ permalink: /schedule/
 </td>
       </tr>
 </table>
+</body>
+</html>
