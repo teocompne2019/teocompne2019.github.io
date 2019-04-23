@@ -5,7 +5,7 @@ class: schedule
 permalink: /schedule/
 ---
 
-<!--- Use esse editor: https://html-online.com/editor/ --->
+<!--- Use esse editor para a tabela: https://html-online.com/editor/ e use esse editor para os resumos: https://upmath.me --->
 
 # Programação
 
