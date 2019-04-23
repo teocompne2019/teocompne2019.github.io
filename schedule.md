@@ -347,7 +347,59 @@ and algorithms from literature, proving to be sufficiently robust and challengin
 		Rodrigo de Souza (UFRPE)
 	</summary>
 	<p>
-	We present a generalization of a classical result of the theory of rational relations between free monoids that establishes that every rational $k$-rational relation can be decomposed into a union of $k$ rational functions. Our generalization states that if the composition of a rational relation $\theta$ with a rational function $\sigma$ is a $k$-valued relation, then $\theta$ can be written as a union of $k$ rational relations, the composition of each of them with $\sigma$ is a rational function, and the union of these compositions is $\theta\sigma$.
+	We present a generalization of a classical result of the theory of rational relations between free monoids that establishes that every rational <img src="https://tex.s2cms.ru/svg/k" alt="k" />-rational relation can be decomposed into a union of <img src="https://tex.s2cms.ru/svg/k" alt="k" /> rational functions. Our generalization states that if the composition of a rational relation <img src="https://tex.s2cms.ru/svg/%5Ctheta" alt="\theta" /> with a rational function <img src="https://tex.s2cms.ru/svg/%5Csigma" alt="\sigma" /> is a <img src="https://tex.s2cms.ru/svg/k" alt="k" />-valued relation, then <img src="https://tex.s2cms.ru/svg/%5Ctheta" alt="\theta" /> can be written as a union of <img src="https://tex.s2cms.ru/svg/k" alt="k" /> rational relations, the composition of each of them with <img src="https://tex.s2cms.ru/svg/%5Csigma" alt="\sigma" /> is a rational function, and the union of these compositions is <img src="https://tex.s2cms.ru/svg/%5Ctheta%5Csigma" alt="\theta\sigma" />.
+	</p>
+</details>
+<p>
+<details>
+	<summary>
+		<i>
+			Uma abordagem baseada em programação lógica por restrições para o problema de escalonamento e roteamento de enfermeiras
+		</i>
+		<br>
+		Julia Madalena Miranda Campos (UFBA), Tiago De Oliveira Januario (UFBA)
+	</summary>
+	<p>
+	Este artigo apresenta um modelo de Programação Lógica por Restrições para o Problema de Escalonamento e Roteamento de Enfermeiras com o objetivo de maximizar o número de pacientes e minimizar a distância percorrida, levando em consideração o estudo de caso realizado junto à equipe de Serviço de Atenção Domiciliar do Hospital Geral do Estado em Salvador.
+	</p>
+</details>
+</p>
+<details>
+	<summary>
+		<i>
+		Iterated Belief Base Chance as a Dynamic Epistemic Logic
+		</i>
+		<br>
+		Marlo Souza (UFBA)
+	</summary>
+	<p>
+	AGM's belief revision is one of the main paradigms in the study of belief change operations. In this context, belief bases have been largely used to specify the agent's belief state. While the connection of iterated AGM-like operations and their encoding in dynamic logics have been studied before, few works considered how well-known postulates from iterated belief revision theory can be characterised by means of belief bases and their counterpart in a dynamic epistemic logic. This work investigates how priority graphs can be used to characterise belief change operators.
+	</p>
+</details>
+<p>
+<details>
+	<summary>
+		<i>
+		Covering 3-coloured random graphs with monochromatic trees
+		</i>
+		<br>
+		Walner Mendonça (IMPA), Guilherme Mota (UFABC)
+	</summary>
+	<p>
+		We investigate the problem of determining how many monochromatic trees are necessary to cover the vertices of an edge-coloured random graph. More precisely, we show that for <img src="https://tex.s2cms.ru/svg/p%5Cgg%20%5Cleft(%5Cfrac%7B%5Cln%20n%7D%7Bn%7D%5Cright)%5E%7B1%2F6%7D" alt="p\gg \left(\frac{\ln n}{n}\right)^{1/6}" /> in any <img src="https://tex.s2cms.ru/svg/3" alt="3" />-colouring of the random graph <img src="https://tex.s2cms.ru/svg/G(n%2Cp)" alt="G(n,p)" /> we can find <img src="https://tex.s2cms.ru/svg/3" alt="3" /> monochromatic trees such that their union covers all vertices. This improves, for three colours, a result of Bucić, Korándi and Sudakov [Covering random graphs by monochromatic trees and Helly-type results for hypergraphs, arXiv:1902.05055]
+	</p>
+</details>
+</p>
+<details>
+	<summary>
+		<i>
+		De combinatória a sistemas de partículas
+		</i>
+		<br>
+		Guilherme Henrique De Paula Reis (UFBA), Roberto Imbuzeiro Oliveira (IMPA)
+	</summary>
+	<p>
+	O modelo de configuração é um modelo clássico introduzido por Bollobás (1980). Esse modelo é usado para construir grafos a partir de uma sequência de graus. Isto é, a partir de vizinhanças pré-fixadas de altura 1 para cada vértice. E se queremos pré-fixar vizinhanças de altura 2? Para isso precisamos do modelo de configuração generalizado introduzido por Bordenave e Caputo (2016). Nessa palestra, além de motivar o modelo de configuração generalizado queremos indicar conexões com teoremas de probabilidade e sistemas de partículas.
 	</p>
 </details>
 
