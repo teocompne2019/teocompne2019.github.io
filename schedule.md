@@ -151,10 +151,11 @@ permalink: /schedule/
 	<summary>
 		Teoria de Ramsey: Introdução e avanços recentes
 		<br>
-		Guilherme Mota (UFABC)
+		<span style="font-weight:normal;">
+			Guilherme Mota (UFABC)
+		</span>
 	</summary>
-	<p>
-		Na primeira parte do minicurso farei uma introdução à Teoria de Ramsey, onde serão apresentados resultados clássicos e discutirei algumas técnicas comumente aplicadas na resolução dos problemas da área.</p>
+	<p> Na primeira parte do minicurso farei uma introdução à Teoria de Ramsey, onde serão apresentados resultados clássicos e discutirei algumas técnicas comumente aplicadas na resolução dos problemas da área.</p>
 <p>Na segunda parte do mini curso serão apresentados resultados recentes envolvendo números de Ramsey para potências de caminhos.
 Mais especificamente, o número de Ramsey relativo a arestas de um grafo $H$ é definido como a menor quantidade de arestas $sr(H)$
 tal que existe um grafo $G$ com $sr(H)$ arestas com a seguinte propriedade: toda coloração das arestas de $G$ com $2$ cores contém
@@ -169,6 +170,5 @@ Discutiremos como estender esse resultado para mais cores e para potências de �
 <li>Han, Jenssen, Kohayakawa, Mota e Roberts (2019+).</li>
 <li>Berger, Kohayakawa, Maesaka, Martins, Mendonça, Mota and Parczyk (2019+).</li>
 </ul>
-	</p>
 </details>
 <br>
