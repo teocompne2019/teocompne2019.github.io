@@ -402,6 +402,62 @@ and algorithms from literature, proving to be sufficiently robust and challengin
 	O modelo de configuração é um modelo clássico introduzido por Bollobás (1980). Esse modelo é usado para construir grafos a partir de uma sequência de graus. Isto é, a partir de vizinhanças pré-fixadas de altura 1 para cada vértice. E se queremos pré-fixar vizinhanças de altura 2? Para isso precisamos do modelo de configuração generalizado introduzido por Bordenave e Caputo (2016). Nessa palestra, além de motivar o modelo de configuração generalizado queremos indicar conexões com teoremas de probabilidade e sistemas de partículas.
 	</p>
 </details>
+<p>
+<details>
+	<summary>
+		<i>
+		Decompondo grafos em arestas e triângulos
+		</i>
+		<br>
+		Taísa Martins (IMPA), Daniel Král' (Masaryk Univ.), Bernard Lidický (Iowa State Univ.) e Yanitsa Pehova (Univ. of Warwick)
+	</summary>
+	<p>
+	Provamos a seguinte conjectura de Gy&quot;ori and Tuza: as arestas de todo grafo G com n vértices podem ser decompostas em grafos completos
+<img src="https://tex.s2cms.ru/svg/C_1%2C%5Cldots%2C%20C_%5Cell" alt="C_1,\ldots, C_\ell" />, cada um de tamanho <img src="https://tex.s2cms.ru/svg/2" alt="2" /> ou <img src="https://tex.s2cms.ru/svg/3" alt="3" />, de forma que <img src="https://tex.s2cms.ru/svg/%7CC_1%7C%20%2B%20%5Cldots%20%2B%20%7CC_%5Cell%7C%20%5Cleq%20(1%2F2%2Bo(1))n%5E2" alt="|C_1| + \ldots + |C_\ell| \leq (1/2+o(1))n^2" />. Esse resultado implica a versão assintótica do resultado de Erd&quot;os, Goodman e Pósa que mostra a existência de tal decomposição com <img src="https://tex.s2cms.ru/svg/%5Cell%20%5Cleq%20n%5E2%2F4" alt="\ell \leq n^2/4" />. Esse é um trabalho em conjunto com Daniel Král’, Bernard Lidický e Yanitsa Pehova.
+	</p>
+</details>
+</p>
+<details>
+	<summary>
+		<i>
+		Compact formulations and a matheuristic based on iterated local search for the minimum weighted feedback vertex set problem
+		</i>
+		<br>
+		Rafael A. Melo (UFBA), Michell Queiroz (UFBA), Celso C. Ribeiro(UFF) 
+	</summary>
+	<p>
+	Given a weighted graph <img src="https://tex.s2cms.ru/svg/G%3D(V%2CE)" alt="G=(V,E)" />, the minimum weighted feedback vertex set problem (MWFVS) consists in obtaining a minimum weight subset <img src="https://tex.s2cms.ru/svg/F%5Csubseteq%20V" alt="F\subseteq V" /> of the vertex set whose removal makes the graph acyclic.
+Differently from other approaches in the literature, in this work
+we tackle this problem via the maximum weighted induced forest problem (MWIF). First, we propose two new compact mixed integer programming (MIP) formulations, using a polynomial number of variables and constraints.
+Next, we develop a matheuristic that hybridizes a multi-start iterated local search metaheuristic with a MIP-based local search procedure. Extensive computational experiments carried out on a set of benchmark instances show that a combination of the newly proposed techniques is extremely competitive with the best heuristics available in the literature in terms of solution quality.
+	</p>
+</details>
+<p>
+<details>
+	<summary>
+		<i>
+		Uma heurística baseada em programação lógica por restrições para um problema restrito de corte bidimensional guilhotinado
+		</i>
+		<br>
+		Junot Freire (UFBA), Rafael A. Melo (UFBA), Luis Modesto  (UFBA),  Michell Queiroz (UFBA), Mateus Silva (UFBA)
+	</summary>
+	<p>
+		Problemas de corte bidimensional (2BP, do inglês \textit{<img src="https://tex.s2cms.ru/svg/2" alt="2" />-Dimensional bin packing problem}) são problemas clássicos de otimização combinatória e da indústria têxtil, metalúrgica e de vidro, e consistem em alocar um conjunto de itens retangulares em placas retangulares maiores com tamanho padronizado com a finalidade de minimizar o desperdício de matéria-prima. No presente trabalho apresenta-se uma abordagem para um problema restrito de corte bidimensional guilhotinado presente no \textit{ROADEF/EURO Challenge 2018: Cutting Optimization Problem}, no qual existe a possibilidade de rotacionar itens em 90º e as placas retangulares a serem cortadas podem possuir defeitos em determinados pontos. Propõe-se uma heurística \textit{multi-start} gulosa randomizada e técnica de aprimoramento que combina a heurística com uma modelagem de programação lógica por restrições. Experimentos realizados produziram resultados que se aproximam dos melhores conhecidos, o que classificou o trabalho para a etapa final do \textit{ROADEF/EURO Challenge 2018}.
+	</p>
+</details>
+</p>
+<details>
+	<summary>
+		<i>
+		An improved simulation-based iterated local search metaheuristic for gravity fed water distribution network design optimization
+		</i>
+		<br>
+		Willian C.S. Martinho  (UFBA), Rafael A. Melo (UFBA)
+	</summary>
+	<p>
+	We consider a gravity fed water distribution network design (WDND) optimization problem, which consists in determining the pipe diameters of a water network such that hydraulic constraints are satisfied and the total cost is minimized. We propose an improved simulation based iterated local search metaheuristc. Preliminary computational experiments show that our approach outperforms the state-of-the-art metaheuristic for several of the benchmark instances.
+	</p>
+</details>
 
 # Legenda
 <ul>
