@@ -273,7 +273,7 @@ significativas.
 </details>
 </p>
 
-# Sessão técnica
+# Sessões técnicas
 
 <details>
 	<summary>
