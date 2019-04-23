@@ -151,9 +151,9 @@ permalink: /schedule/
 	<summary>
 		Teoria de Ramsey: Introdução e avanços recentes
 		<br>
-		<span style="font-weight:normal;">
+		<i>
 			Guilherme Mota (UFABC)
-		</span>
+		</i>
 	</summary>
 	<p>Na primeira parte do minicurso farei uma introdução à Teoria de Ramsey, onde serão apresentados resultados clássicos e discutirei algumas técnicas comumente aplicadas na resolução dos problemas da área. Na segunda parte do mini curso serão apresentados resultados recentes envolvendo números de Ramsey para potências de caminhos. Mais especificamente, o número de Ramsey relativo a arestas de um grafo <img src="https://tex.s2cms.ru/svg/H" alt="H" /> é definido como a menor quantidade de arestas <img src="https://tex.s2cms.ru/svg/sr(H)" alt="sr(H)" />
 tal que existe um grafo <img src="https://tex.s2cms.ru/svg/G" alt="G" /> com <img src="https://tex.s2cms.ru/svg/sr(H)" alt="sr(H)" /> arestas com a seguinte propriedade: toda coloração das arestas de <img src="https://tex.s2cms.ru/svg/G" alt="G" /> com <img src="https://tex.s2cms.ru/svg/2" alt="2" /> cores contém
@@ -166,3 +166,28 @@ Discutiremos como estender esse resultado para mais cores e para potências de �
 </ul>
 </details>
 <br>
+<details>
+	<summary>
+		<i>
+			Introdução à Complexidade Parametrizada
+		</i>
+		<br>
+		Vinícius dos Santos (UFMG)
+	</summary>
+	<p>
+		...
+	</p>
+</details>
+<br>
+<details>
+	<summary>
+		<i>
+			BDD's - Você deveria conhecê-los!
+		</i>
+		<br>
+		Maria Viviane de Menezes (UFC)
+	</summary>
+	<p>
+		Diagramas de Decisão Binária (BDD's - Binary Decision Diagrams) são estruturas de dados que têm sido amplamente utilizadas na área de verificação de modelos por permitir representar sistemas com até 10 elevado a 20 estados. Estas estruturas têm um grande poder de compactação, armazenando conjuntos de estados (representação simbólica) no lugar de representá-los individualmente (representação enumerativa). Nos últimos anos, a aplicação dos BDDs têm sido expandida para outras áreas tais como Planejamento em Inteligência Artificial.  Neste tutorial, abordaremos a fundamentação teórica dos BDDs, propriedades, operações, algoritmos e aspectos de implementação tais como o uso de bibliotecas (C++, Java e Python). Por fim, mostraremos os avanços recentes da busca simbólica na área de  Planejamento em Inteligência Artificial.
+	</p>
+</details>
