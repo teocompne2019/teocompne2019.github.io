@@ -122,29 +122,6 @@ permalink: /schedule/
 </table>
 </center>
 
-
-<p><strong>Legenda</strong>:</p>
-<ul>
-<li>
-<p><code>ST-x</code>: A escola est&aacute; planejada com 2 Sess&otilde;es T&eacute;cnicas contendo tr&ecirc;s apresenta&ccedil;&otilde;es em cada uma delas. O tempo de apresenta&ccedil;&atilde;o ser&aacute; de 20 minutos para cada trabalho, com 15 minutos de exposi&ccedil;&atilde;o e 5 minutos de perguntas da plat&eacute;ia.</p>
-</li>
-<li>
-<p><code>Confer&ecirc;ncia-x</code>: Ser&atilde;o ministradas confer&ecirc;ncias com dura&ccedil;&atilde;o de uma hora.</p>
-</li>
-<li>
-<p><code>Minicurso</code>: Ser&atilde;o ministrados tr&ecirc;s minicursos com dura&ccedil;&atilde;o total de 6 (seis) horas divididos em dois momentos de 1h e 30 minutos.</p>
-</li>
-<li>
-<p><code>Contraternização</code>: Será escolhido um local para realizar uma confraternização informal entre os participantes do evento e propiciar um ambiente de integra&ccedil;&atilde;o entre os mesmos.</p>
-</li>
-<li>
-<p><code>Mesa redonda</code>: Uma mesa redonda com participa&ccedil;&atilde;o de um pesquisadores de cada &aacute;rea para versar&aacute; sobre &ldquo;Ensino e Forma&ccedil;&aatilde;o em da Teoria da Computa&ccedil;&atilde;o&rdquo;. Cada convidado ter&aacute; entre 15 e 20 minutos de apresenta&ccedil;&atilde;o e depois ser&aacute; aberto para participantes fazerem perguntas relacionadas ao tema.</p>
-</li>
-<li>
-<p><code>Plen&aacute;ria evento</code>: Reuni&atilde;o entre os pesquisadores participantes com objetivo de avaliar o evento e definir a pr&oacute;ximas edi&ccedil;&otilde;es do mesmo.</p>
-</li>
-</ul>
-
 # Minicursos
 
 <details>
@@ -374,3 +351,24 @@ and algorithms from literature, proving to be sufficiently robust and challengin
 	</p>
 </details>
 
+# Legenda
+<ul>
+<li>
+<p><code>ST-x</code>: A escola est&aacute; planejada com 2 Sess&otilde;es T&eacute;cnicas contendo tr&ecirc;s apresenta&ccedil;&otilde;es em cada uma delas. O tempo de apresenta&ccedil;&atilde;o ser&aacute; de 20 minutos para cada trabalho, com 15 minutos de exposi&ccedil;&atilde;o e 5 minutos de perguntas da plat&eacute;ia.</p>
+</li>
+<li>
+<p><code>Confer&ecirc;ncia-x</code>: Ser&atilde;o ministradas confer&ecirc;ncias com dura&ccedil;&atilde;o de uma hora.</p>
+</li>
+<li>
+<p><code>Minicurso</code>: Ser&atilde;o ministrados tr&ecirc;s minicursos com dura&ccedil;&atilde;o total de 6 (seis) horas divididos em dois momentos de 1h e 30 minutos.</p>
+</li>
+<li>
+<p><code>Contraternização</code>: Será escolhido um local para realizar uma confraternização informal entre os participantes do evento e propiciar um ambiente de integra&ccedil;&atilde;o entre os mesmos.</p>
+</li>
+<li>
+<p><code>Mesa redonda</code>: Uma mesa redonda com participa&ccedil;&atilde;o de um pesquisadores de cada &aacute;rea para versar&aacute; sobre &ldquo;Ensino e Forma&ccedil;&aatilde;o em da Teoria da Computa&ccedil;&atilde;o&rdquo;. Cada convidado ter&aacute; entre 15 e 20 minutos de apresenta&ccedil;&atilde;o e depois ser&aacute; aberto para participantes fazerem perguntas relacionadas ao tema.</p>
+</li>
+<li>
+<p><code>Plen&aacute;ria evento</code>: Reuni&atilde;o entre os pesquisadores participantes com objetivo de avaliar o evento e definir a pr&oacute;ximas edi&ccedil;&otilde;es do mesmo.</p>
+</li>
+</ul>
