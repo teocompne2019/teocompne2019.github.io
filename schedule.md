@@ -165,7 +165,7 @@ Discutiremos como estender esse resultado para mais cores e para potências de �
 <li>Berger, Kohayakawa, Maesaka, Martins, Mendonça, Mota and Parczyk (2019+).</li>
 </ul>
 </details>
-<br>
+
 <details>
 	<summary>
 		<i>
@@ -178,7 +178,6 @@ Discutiremos como estender esse resultado para mais cores e para potências de �
 		...
 	</p>
 </details>
-<br>
 <details>
 	<summary>
 		<i>
@@ -191,3 +190,20 @@ Discutiremos como estender esse resultado para mais cores e para potências de �
 		Diagramas de Decisão Binária (BDD's - Binary Decision Diagrams) são estruturas de dados que têm sido amplamente utilizadas na área de verificação de modelos por permitir representar sistemas com até 10 elevado a 20 estados. Estas estruturas têm um grande poder de compactação, armazenando conjuntos de estados (representação simbólica) no lugar de representá-los individualmente (representação enumerativa). Nos últimos anos, a aplicação dos BDDs têm sido expandida para outras áreas tais como Planejamento em Inteligência Artificial.  Neste tutorial, abordaremos a fundamentação teórica dos BDDs, propriedades, operações, algoritmos e aspectos de implementação tais como o uso de bibliotecas (C++, Java e Python). Por fim, mostraremos os avanços recentes da busca simbólica na área de  Planejamento em Inteligência Artificial.
 	</p>
 </details>
+
+# Palestras Plenárias
+
+<details>
+	<summary>
+		<i>
+			Combinatória Extremal: Árvores monocromáticas em grafos aleatórios
+		</i>
+		<br>
+		Guilherme Mota (UFABC)
+	</summary>
+	<p>
+		<p>Inicialmente será feita uma breve introdução à Combinatória Extremal, explicando que tipos de problemas são estudados nessa área. Em um segundo momento, analisamos uma conjectura proposta por Bal e DeBiasio [Partitioning random graphs into monochromatic components, Electron. J. Combin. 24 (2017), Paper 1.18] a respeito de funções limiares para a seguinte propriedade tipo Ramsey: em toda <img src="https://tex.s2cms.ru/svg/k" alt="k" />-coloração do conjunto das arestas de um grafo <img src="https://tex.s2cms.ru/svg/G" alt="G" />, existem <img src="https://tex.s2cms.ru/svg/k" alt="k" /> árvores monocromáticas que particionam todo o conjunto de vértices de <img src="https://tex.s2cms.ru/svg/G" alt="G" />. Mais precisamente, determinamos a função limiar para essa propriedade para duas cores. Este trabalho foi feito em conjunto com Yoshiharu Kohayakawa e Mathias Schacht.</p>
+	</p>
+</details>
+
+
