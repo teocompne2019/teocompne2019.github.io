@@ -144,3 +144,31 @@ permalink: /schedule/
 <p><code>Plen&aacute;ria evento</code>: Reuni&atilde;o entre os pesquisadores participantes com objetivo de avaliar o evento e definir a pr&oacute;ximas edi&ccedil;&otilde;es do mesmo.</p>
 </li>
 </ul>
+
+# Minicursos
+
+<details>
+	<summary>
+		Teoria de Ramsey: Introdução e avanços recentes
+		<br>
+		Guilherme Mota (UFABC)
+	</summary>
+	<p>
+		Na primeira parte do minicurso farei uma introdução à Teoria de Ramsey, onde serão apresentados resultados clássicos e discutirei algumas técnicas comumente aplicadas na resolução dos problemas da área.</p>
+<p>Na segunda parte do mini curso serão apresentados resultados recentes envolvendo números de Ramsey para potências de caminhos.
+Mais especificamente, o número de Ramsey relativo a arestas de um grafo $H$ é definido como a menor quantidade de arestas $sr(H)$
+tal que existe um grafo $G$ com $sr(H)$ arestas com a seguinte propriedade: toda coloração das arestas de $G$ com $2$ cores contém
+uma cópia monocromática de $H$.</p>
+<p>Respondendo uma pergunta sugerida por Conlon, provaremos que <img src="https://tex.s2cms.ru/svg/sr(P_n%5Ek)%3DO(n)" alt="sr(P_n^k)=O(n)" /> para todo <img src="https://tex.s2cms.ru/svg/k" alt="k" /> fixo, onde <img src="https://tex.s2cms.ru/svg/P_n%5Ek" alt="P_n^k" /> é a <img src="https://tex.s2cms.ru/svg/k" alt="k" />-ésima potência
+do caminho com $n$ vértices <img src="https://tex.s2cms.ru/svg/P_n" alt="P_n" />, i.e., o grafo com conjunto de vértices <img src="https://tex.s2cms.ru/svg/V(P_n)" alt="V(P_n)" /> e todas as arestas <img src="https://tex.s2cms.ru/svg/%5C%7Bu%2Cv%5C%7D" alt="\{u,v\}" />
+tais que a distância entre $u$ e $v$ em $P_n$ é no máximo <img src="https://tex.s2cms.ru/svg/k" alt="k" />.
+Discutiremos como estender esse resultado para mais cores e para potências de árvores.</p>
+<p>Os trabalhos que serão discutidos foram obtidos pelos seguintes autores:</p>
+<ul>
+<li>Clemens, Jenssen, Kohayakawa, Morrison, Mota, Reding e Roberts (2018).</li>
+<li>Han, Jenssen, Kohayakawa, Mota e Roberts (2019+).</li>
+<li>Berger, Kohayakawa, Maesaka, Martins, Mendonça, Mota and Parczyk (2019+).</li>
+</ul>
+	</p>
+</details>
+<br>
