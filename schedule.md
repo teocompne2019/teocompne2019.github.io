@@ -260,3 +260,46 @@ significativas.
 	</summary>
 	<p>Dado um grafo <img src="https://tex.s2cms.ru/svg/G%3D(V%2CE)" alt="G=(V,E)" />, colorir os vértices de <img src="https://tex.s2cms.ru/svg/G" alt="G" /> significa atribuir cores aos mesmos de forma que vértices adjacentes tenham cores distintas. O número cromático de um grafo é o menor inteiro k tal que <img src="https://tex.s2cms.ru/svg/G" alt="G" /> admite uma coloração de vértices com <img src="https://tex.s2cms.ru/svg/k" alt="k" />-cores. Nessa palestra, veremos algoritmos combinatórios exatos de coloração na classe de grafos perfeitos, usando o conceito de pares de amigos, além de heurísticas clássicas de coloração, com a definição de seus parâmetros relacionados, apresentando as ferramentas usadas para lidar com a determinação desses parâmetros.</p>
 </details>
+<p>
+<details>
+	<summary>
+		<i>
+			Saturação fraca de grafos bipartidos completos
+		</i>
+		<br>
+		Taísa Martins (IMPA)
+	</summary>
+	<p>Em 1968 Bollobás introduziu o conceito de saturação fraca. Um grafo <img src="https://tex.s2cms.ru/svg/G" alt="G" /> é dito fracamente <img src="https://tex.s2cms.ru/svg/F" alt="F" />-saturado se existe uma ordem das arestas que não estão em <img src="https://tex.s2cms.ru/svg/G" alt="G" /> tal que se elas forem adicionadas, uma de cada vez, cada nova aresta adicionada cria uma nova cópia de <img src="https://tex.s2cms.ru/svg/F" alt="F" />. O menor número de arestas de um grafo com <img src="https://tex.s2cms.ru/svg/n" alt="n" /> vértices fracamente <img src="https://tex.s2cms.ru/svg/F" alt="F" />-saturado é denotado por <img src="https://tex.s2cms.ru/svg/%5Cwsat(n%2CF)" alt="\wsat(n,F)" />. Bollobás estabeleceu <img src="https://tex.s2cms.ru/svg/%5Cwsat(n%2C%20K_r)" alt="\wsat(n, K_r)" /> para <img src="https://tex.s2cms.ru/svg/r%20%3C8" alt="r &lt;8" /> e para <img src="https://tex.s2cms.ru/svg/r" alt="r" /> em geral, o valor foi originalmente determinado por Lovász e provas alternativas foram dadas por Alon, Frankl, Yu e Kalai, independentemente. Faudree, Gould e Jacobson determinaram o número de saturação fraca de diversos grafos esparsos e em particular, mostraram que <img src="https://tex.s2cms.ru/svg/%5Cwsat(n%2C%20K_%7B2%2C3%7D)%20%3D%20n%2B1" alt="\wsat(n, K_{2,3}) = n+1" />. Nessa palestra, discutimos os valores de saturação fraca para grafos bipartidos completos e determinamos <img src="https://tex.s2cms.ru/svg/%5Cwsat(n%2C%20K_%7Bt%2Ct%7D)" alt="\wsat(n, K_{t,t})" /> para todo <img src="https://tex.s2cms.ru/svg/n%20%3E%203t-4" alt="n &gt; 3t-4" />. Esse é um trabalho em conjunto com Gal Kronenberg e Natasha Morrison.</p>
+</details>
+</p>
+
+# Sessão técnica
+
+<details>
+	<summary>
+		<i>
+			An ALC Description Logic Connection Calculus
+		</i>
+		<br>
+		Fred Freitas (UFPE), Jens Otten (University of Oslo)
+	</summary>
+	<p>
+		This paper presents a connection calculus for the description logic (DL) ALC. It replaces the usage of Skolem terms and unification by additional annotation and introduces blocking, a typical feature of DL provers, by a new rule, to ensure termination in the case of cyclic ontologies.
+	</p>
+</details>
+<p>
+<details>
+	<summary>
+		<i>
+			Counting Gallai $3$-colorings of complete graphs
+		</i>
+		<br>
+		Josefran Bastos (UFC), Fabrício Benevides (UFC), Guilherme Mota (UFABC), Ignasi Sau (LIRMN)
+	</summary>
+	<p>An edge coloring of the <img src="https://tex.s2cms.ru/svg/n" alt="n" />-vertex complete graph <img src="https://tex.s2cms.ru/svg/K_n" alt="K_n" /> is a Gallai coloring if it does not contain any rainbow triangle,
+that is, a triangle whose edges are colored with three distinct colors. We prove that the number of Gallai colorings of <img src="https://tex.s2cms.ru/svg/K_n" alt="K_n" />
+with at most three colors is at most <img src="https://tex.s2cms.ru/svg/7(n%2B1)2%5E%7B%5Cbinom%7Bn%7D%7B2%7D%7D" alt="7(n+1)2^{\binom{n}{2}}" />, which improves the best known upper bound of
+<img src="https://tex.s2cms.ru/svg/%5Cfrac%7B3%7D%7B2%7D(n%20-%201)!%5Ccdot%202%5E%7B%5Cbinom%7Bn-1%7D%7B2%7D%7D" alt="\frac{3}{2}(n - 1)!\cdot 2^{\binom{n-1}{2}}" />
+in [Discrete Mathematics, 2017].</p>
+</details>
+</p>
