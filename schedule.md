@@ -206,7 +206,7 @@ Discutiremos como estender esse resultado para mais cores e para potências de �
 		<p>Inicialmente será feita uma breve introdução à Combinatória Extremal, explicando que tipos de problemas são estudados nessa área. Em um segundo momento, analisamos uma conjectura proposta por Bal e DeBiasio [Partitioning random graphs into monochromatic components, Electron. J. Combin. 24 (2017), Paper 1.18] a respeito de funções limiares para a seguinte propriedade tipo Ramsey: em toda <img src="https://tex.s2cms.ru/svg/k" alt="k" />-coloração do conjunto das arestas de um grafo <img src="https://tex.s2cms.ru/svg/G" alt="G" />, existem <img src="https://tex.s2cms.ru/svg/k" alt="k" /> árvores monocromáticas que particionam todo o conjunto de vértices de <img src="https://tex.s2cms.ru/svg/G" alt="G" />. Mais precisamente, determinamos a função limiar para essa propriedade para duas cores. Este trabalho foi feito em conjunto com Yoshiharu Kohayakawa e Mathias Schacht.</p>
 	</p>
 </details>
-<br>
+<p>
 <details>
 	<summary>
 		<i>
@@ -218,4 +218,45 @@ Discutiremos como estender esse resultado para mais cores e para potências de �
 	<p>
 		Planejamento Automatizado é a subárea da Inteligência Artificial que se preocupa com a escolha de ações para que um agente inteligente possa alcançar seus objetivos. De fato, a habilidade de planejar tarefas é um aspecto fundamental do comportamento inteligente e sua automação têm sido um dos principais objetivos da pesquisa realizada em Inteligência Artificial. Aplicações de planejamento estão relacionadas à logística, navegação de robôs, automação de processos industriais, jogos, dentre outras. Nesta palestra, abordaremos os conceitos básicos da área de Planejamento Automatizado, as diferentes formas de planejamento, a representação de estados, ações, especificações formais e algoritmos de busca por uma solução para domínios com ações determinísticas e não-determinísticas. 
 	</p>
+</details>
+</p>
+<details>
+	<summary>
+		<i>
+			Quebrando o Código da Matemática
+		</i>
+		<br>
+		João Marcos (UFRN)
+	</summary>
+	<p>
+		Quantas das suas demonstrações matemática estão garantidamente
+corretas?  O computador poderia lhe ajudar nisso?  Esta palestra irá
+analisar algumas das conquistas recentes na geração mecanizada de
+demonstrações e refutações para várias conjecturas matemáticas
+significativas.
+	</p>
+</details>
+<p>
+<details>
+	<summary>
+		<i>
+			Título a ser anunciado em breve!!!
+		</i>
+		<br>
+		Vinícius dos Santos (UFMG)
+	</summary>
+	<p>
+		...
+	</p>
+</details>
+</p>
+<details>
+	<summary>
+		<i>
+			Algoritmos Exatos e Heurísticas de Colorações de Grafos
+		</i>
+		<br>
+		Cláudia Linhares (UFC)
+	</summary>
+	<p>Dado um grafo <img src="https://tex.s2cms.ru/svg/G%3D(V%2CE)" alt="G=(V,E)" />, colorir os vértices de <img src="https://tex.s2cms.ru/svg/G" alt="G" /> significa atribuir cores aos mesmos de forma que vértices adjacentes tenham cores distintas. O número cromático de um grafo é o menor inteiro k tal que <img src="https://tex.s2cms.ru/svg/G" alt="G" /> admite uma coloração de vértices com <img src="https://tex.s2cms.ru/svg/k" alt="k" />-cores. Nessa palestra, veremos algoritmos combinatórios exatos de coloração na classe de grafos perfeitos, usando o conceito de pares de amigos, além de heurísticas clássicas de coloração, com a definição de seus parâmetros relacionados, apresentando as ferramentas usadas para lidar com a determinação desses parâmetros.</p>
 </details>
