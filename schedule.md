@@ -291,7 +291,7 @@ significativas.
 <details>
 	<summary>
 		<i>
-			Counting Gallai $3$-colorings of complete graphs
+			Counting Gallai 3-colorings of complete graphs
 		</i>
 		<br>
 		Josefran Bastos (UFC), Fabrício Benevides (UFC), Guilherme Mota (UFABC), Ignasi Sau (LIRMN)
@@ -303,3 +303,15 @@ with at most three colors is at most <img src="https://tex.s2cms.ru/svg/7(n%2B1)
 in [Discrete Mathematics, 2017].</p>
 </details>
 </p>
+<details>
+	<summary>
+		<i>
+			Sobre a maldiçao de dimensionalidade e pesquisa por semelhança em espaços métricos
+		</i>
+		<br>
+		Vladimir Pestov (UFBA, University of Ottawa)
+	</summary>
+	<p>
+		We present a new result about the curse of dimensionality affecting similarity search in intrinsically high-dimensional metric spaces with measure, when an indexing scheme uses 1-Lipschitz functions.
+	</p>
+</details>
