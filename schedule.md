@@ -315,3 +315,62 @@ in [Discrete Mathematics, 2017].</p>
 		We present a new result about the curse of dimensionality affecting similarity search in intrinsically high-dimensional metric spaces with measure, when an indexing scheme uses 1-Lipschitz functions.
 	</p>
 </details>
+<p>
+<details>
+	<summary>
+		<i>
+			Lógica Paraconsistente Anotada com Anotação de Dois Valores - LPA2v aplicada a Inteligência Artificial em Jogos Eletrônicos
+		</i>
+		<br>
+		Charles Abreu	Santana (UFMG), Alzira Frreira da Silva (UESB)
+	</summary>
+	<p>
+		Paraconsistent Logic has demonstrated good results in several fields 
+of study, but with little application in games. In order to interconnect these two 
+fields of knowledge, this work consists in the implementation of a Paraconsistent 
+Battle System, based on the principles of Paraconsistent Logic, with the aim to 
+control actions of non-player characters. Matches experiments were performed, 
+and our system demonstrate efficient and higher performance against scripts 
+and algorithms from literature, proving to be sufficiently robust and challenging.
+	</p>
+</details>
+</p>
+<details>
+	<summary>
+		<i>
+			Análise de simuladores e jogos para a mediação do processo de ensino-aprendizagem de Teoria da Computação
+		</i>
+		<br>
+		Allan	Oliveira (UFBA), Tania Rocha (UFBA), Luiz Gavaza (UFBA), Laís Salvador (UFBA)
+	</summary>
+	<p>
+		Na contemporaneidade ensinar Teoria da Computação (TC) implica em ter diferentes ferramentas pedagógicas para auxiliar o processo de ensino-aprendizagem. Uma dessas ferramentas é a utilização de recursos digitais como jogos e simuladores, por serem recursos atrativos, que fornecem feedback visual e interação. No entanto, nem todos os recursos são capazes de fomentar a aprendizagem, fazendo-se necessária uma análise prévia do recurso, anterior a sua aplicação em sala de aula. Desta forma, este relato aborda os critérios pedagógicos, tecnológicos e aspectos referentes a abrangência de conteúdos para a analise do recurso digital. Mais especificamete, foram analisados alguns simuladores de formalismos de TC com base nos critérios e aspectos supracitados na avaliação de recursos digitais. Como esse relato é um préludio de um projeto em andamento que visa analisar os simuladores/jogos mais utilizados em disciplinas de TC no Brasil, os resultados preliminares apontam um possível ganho no processo de ensino-aprendizagem de TC mediado por recursos digitais.
+	</p>
+</details>
+<p>
+<details>
+	<summary>
+		<i>
+			Análise de vizinhanças: um estudo de caso sobre o problema de programação de tarefas
+		</i>
+		<br>
+		Italo	Teixeira (UFBA), Tiago Januario (UFBA)
+	</summary>
+	<p>
+		Este projeto busca apresentar uma análise detalhada do desempenho das estruturas de vizinhança para o Problema de programação de tarefas em ambiente Job shop. Com o objetivo de investigar a capacidade da busca das diferentes estruturas de vizinhança, são apresentados quatro critérios de avaliação: Eficiência, Convergência, Força e Aprimoramento. Para alcançar esses objetivos, este trabalho será realizado considerando a aplicação de procedimentos de busca local baseados na heurística Hill Climbing e na metaheurística Iterated Local Search.
+	</p>
+</details>
+</p>
+<details>
+	<summary>
+		<i>
+			Sobre a decomposição de relações racionais
+		</i>
+		<br>
+		Rodrigo de Souza (UFRPE)
+	</summary>
+	<p>
+	We present a generalization of a classical result of the theory of rational relations between free monoids that establishes that every rational $k$-rational relation can be decomposed into a union of $k$ rational functions. Our generalization states that if the composition of a rational relation $\theta$ with a rational function $\sigma$ is a $k$-valued relation, then $\theta$ can be written as a union of $k$ rational relations, the composition of each of them with $\sigma$ is a rational function, and the union of these compositions is $\theta\sigma$.
+	</p>
+</details>
+
