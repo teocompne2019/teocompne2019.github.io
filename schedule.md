@@ -387,18 +387,6 @@ and algorithms from literature, proving to be sufficiently robust and challengin
 	</p>
 </details>
 </p>
-<details>
-	<summary>
-		<i>
-			Sobre a decomposição de relações racionais
-		</i>
-		<br>
-		Rodrigo de Souza (UFRPE)
-	</summary>
-	<p>
-	We present a generalization of a classical result of the theory of rational relations between free monoids that establishes that every rational <img src="https://tex.s2cms.ru/svg/k" alt="k" />-rational relation can be decomposed into a union of <img src="https://tex.s2cms.ru/svg/k" alt="k" /> rational functions. Our generalization states that if the composition of a rational relation <img src="https://tex.s2cms.ru/svg/%5Ctheta" alt="\theta" /> with a rational function <img src="https://tex.s2cms.ru/svg/%5Csigma" alt="\sigma" /> is a <img src="https://tex.s2cms.ru/svg/k" alt="k" />-valued relation, then <img src="https://tex.s2cms.ru/svg/%5Ctheta" alt="\theta" /> can be written as a union of <img src="https://tex.s2cms.ru/svg/k" alt="k" /> rational relations, the composition of each of them with <img src="https://tex.s2cms.ru/svg/%5Csigma" alt="\sigma" /> is a rational function, and the union of these compositions is <img src="https://tex.s2cms.ru/svg/%5Ctheta%5Csigma" alt="\theta\sigma" />.
-	</p>
-</details>
 <p>
 <details>
 	<summary>
