@@ -83,7 +83,7 @@ permalink: /schedule/
 	Maria Viviane de Menezes (UFC)
 	</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-4&quot;}">
-	<strong>Confer&ecirc;ncia-4</strong><br />
+	<strong> Dual parameterization of Weighted Coloring.</strong><br />
 	Vin&iacute;cius Santos (UFMG)
 	</td>
 <td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}">
@@ -160,7 +160,7 @@ polinomiais. Entretanto, como muitos problemas NP-difíceis precisam
 ser resolvidos na prática, algumas possibilidades adotadas são o uso
 de algoritmos aproximativos ou de heurísticas, em vez de algoritmos
 exatos, cujo tempo de execução teria uma dependência exponencial no
-tamanho da entrada.<br />
+tamanho da entrada.<br /><br />
 Uma recente e promissora alternativa para a tratabilidade desses
 problemas, é recorrer a uma análise sob o ponto de vista da Teoria da
 Complexidade Parametrizada. Esta teoria, desenvolvida por Downey e
