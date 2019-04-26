@@ -244,27 +244,27 @@ significativas.
 		Vinícius dos Santos (UFMG)
 	</summary>
 	<p>
-Given a graph G, a proper k-coloring of G is a partition c =
-(S_i)_{i\in [1,k]} of V(G) into k stable sets S_1,\ldots, S_{k}. Given
-a weight function w: V(G) \to \mathbb{R}^+, the weight of a color S_i
-is defined as w(i) = \max_{v \in S_i} w(v) and the weight of a
-coloring c as w(c) = \sum_{i=1}^{k}w(i). Guan and Zhu [Inf. Process.
-Lett., 1997] defined the weighted chromatic number of a pair (G,w),
-denoted by σ(G,w), as the minimum weight of a proper coloring of G.
-The problem of determining σ(G,w) has received considerable attention
+Given a graph <img src="https://tex.s2cms.ru/svg/G" alt="G" />, a proper <img src="https://tex.s2cms.ru/svg/k" alt="k" />-coloring of <img src="https://tex.s2cms.ru/svg/G" alt="G" /> is a partition <img src="https://tex.s2cms.ru/svg/c%20%3D%0A(S_i)_%7Bi%5Cin%20%5B1%2Ck%5D%7D" alt="c =
+(S_i)_{i\in [1,k]}" /> of <img src="https://tex.s2cms.ru/svg/V(G)" alt="V(G)" /> into <img src="https://tex.s2cms.ru/svg/k" alt="k" /> stable sets <img src="https://tex.s2cms.ru/svg/S_1%2C%5Cldots%2C%20S_%7Bk%7D" alt="S_1,\ldots, S_{k}" />.
+Given a weight function <img src="https://tex.s2cms.ru/svg/w%3A%20V(G)%20%5Cto%20%5Cmathbb%7BR%7D%5E%2B" alt="w: V(G) \to \mathbb{R}^+" />, the weight of a color <img src="https://tex.s2cms.ru/svg/S_i" alt="S_i" />
+is defined as <img src="https://tex.s2cms.ru/svg/w(i)%20%3D%20%5Cmax_%7Bv%20%5Cin%20S_i%7D%20w(v)" alt="w(i) = \max_{v \in S_i} w(v)" /> and the weight of a
+coloring <img src="https://tex.s2cms.ru/svg/c" alt="c" /> as <img src="https://tex.s2cms.ru/svg/w(c)%20%3D%20%5Csum_%7Bi%3D1%7D%5E%7Bk%7Dw(i)" alt="w(c) = \sum_{i=1}^{k}w(i)" />. Guan and Zhu [Inf. Process.
+Lett., 1997] defined the weighted chromatic number of a pair <img src="https://tex.s2cms.ru/svg/(G%2Cw)" alt="(G,w)" />,
+denoted by <img src="https://tex.s2cms.ru/svg/%5Csigma(G%2Cw)" alt="\sigma(G,w)" />, as the minimum weight of a proper coloring of <img src="https://tex.s2cms.ru/svg/G" alt="G" />.
+The problem of determining <img src="https://tex.s2cms.ru/svg/%5Csigma(G%2Cw)" alt="\sigma(G,w)" /> has received considerable attention
 during the last years, and has been proved to be notoriously hard: for
 instance, it is NP-hard on split graphs, unsolvable on n-vertex trees
-in time n^{o(\log n)} unless the ETH fails, and W[1]-hard on forests
+in time <img src="https://tex.s2cms.ru/svg/n%5E%7Bo(%5Clog%20n)%7D" alt="n^{o(\log n)}" /> unless the ETH fails, and W[1]-hard on forests
 parameterized by the size of a largest tree. In this article we
 provide some positive results for the problem, by considering its
-so-called dual parameterization: given a vertex-weighted graph (G,w)
-and an integer k, the question is whether σ(G,w) \leq \sum_{v \in
-V(G)} w(v) - k. We prove that this problem is FPT by providing an
-algorithm running in time 9^k \cdot n^{O(1)}, and it is easy to see
-that no algorithm in time 2^{o(k)} \cdot n^{O(1)} exists under the
-ETH. On the other hand, we present a kernel with at most (2^{k-1}+1)
-(k-1) vertices, and we rule out the existence of polynomial kernels
-unless {\sf NP} \subseteq {\sf coNP} / {\sf poly}, even on split
+so-called dual parameterization: given a vertex-weighted graph <img src="https://tex.s2cms.ru/svg/(G%2Cw)" alt="(G,w)" />
+and an integer <img src="https://tex.s2cms.ru/svg/k" alt="k" />, the question is whether <img src="https://tex.s2cms.ru/svg/%5Csigma(G%2Cw)%20%5Cleq%20%5Csum_%7Bv%20%5Cin%0AV(G)%7D%20w(v)%20-%20k" alt="\sigma(G,w) \leq \sum_{v \in
+V(G)} w(v) - k" />. We prove that this problem is FPT by providing an
+algorithm running in time <img src="https://tex.s2cms.ru/svg/9%5Ek%20%5Ccdot%20n%5E%7BO(1)%7D" alt="9^k \cdot n^{O(1)}" />, and it is easy to see
+that no algorithm in time <img src="https://tex.s2cms.ru/svg/2%5E%7Bo(k)%7D%20%5Ccdot%20n%5E%7BO(1)%7D" alt="2^{o(k)} \cdot n^{O(1)}" /> exists under the
+ETH. On the other hand, we present a kernel with at most <img src="https://tex.s2cms.ru/svg/(2%5E%7Bk-1%7D%2B1)%0A(k-1)" alt="(2^{k-1}+1)
+(k-1)" /> vertices, and we rule out the existence of polynomial kernels
+unless <img src="https://tex.s2cms.ru/svg/%7B%5Csf%20NP%7D%20%5Csubseteq%20%7B%5Csf%20coNP%7D%20%2F%20%7B%5Csf%20poly%7D" alt="{\sf NP} \subseteq {\sf coNP} / {\sf poly}" />, even on split
 graphs with only two different weights. Finally, we identify some
 classes of graphs on which the problem admits a polynomial kernel, in
 particular interval graphs and subclasses of split graphs, and in the
