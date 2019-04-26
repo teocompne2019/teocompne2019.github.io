@@ -511,7 +511,7 @@ Next, we develop a matheuristic that hybridizes a multi-start iterated local sea
 # Legenda
 <ul>
 <li>
-<p><code>ST-x</code>: A escola est&aacute; planejada com 2 Sess&otilde;es T&eacute;cnicas contendo tr&ecirc;s apresenta&ccedil;&otilde;es em cada uma delas. O tempo de apresenta&ccedil;&atilde;o ser&aacute; de 20 minutos para cada trabalho, com 15 minutos de exposi&ccedil;&atilde;o e 5 minutos de perguntas da plat&eacute;ia.</p>
+<p><code>ST-x</code>: A escola est&aacute; planejada com 4 Sess&otilde;es T&eacute;cnicas contendo quatro ou tr&ecirc;s apresenta&ccedil;&otilde;es em cada uma delas. O tempo de apresenta&ccedil;&atilde;o ser&aacute; de 20 minutos para cada trabalho, com 15 minutos de exposi&ccedil;&atilde;o e 5 minutos de perguntas da plat&eacute;ia.</p>
 </li>
 <li>
 <p><code>Confer&ecirc;ncia-x</code>: Ser&atilde;o ministradas confer&ecirc;ncias com dura&ccedil;&atilde;o de uma hora.</p>
