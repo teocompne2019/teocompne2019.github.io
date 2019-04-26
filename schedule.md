@@ -244,8 +244,8 @@ significativas.
 		Vinícius dos Santos (UFMG)
 	</summary>
 	<p>
-Given a graph G, a proper k-coloring of G is a partition c =
-(S_i)_{i\in [1,k]} of V(G) into k stable sets S_1,\ldots, S_{k}. Given
+Given a graph G, a proper k-coloring of G is a partition $c =
+(S_i)_{i\in [1,k]}$ of V(G) into k stable sets S_1,\ldots, S_{k}. Given
 a weight function w: V(G) \to \mathbb{R}^+, the weight of a color S_i
 is defined as w(i) = \max_{v \in S_i} w(v) and the weight of a
 coloring c as w(c) = \sum_{i=1}^{k}w(i). Guan and Zhu [Inf. Process.
@@ -269,7 +269,7 @@ graphs with only two different weights. Finally, we identify some
 classes of graphs on which the problem admits a polynomial kernel, in
 particular interval graphs and subclasses of split graphs, and in the
 latter case we present lower bounds on the degrees of the polynomials.
-<br />
+<br /><br />
 
 Joint work with Júlio Araújo, Victor A. Campos, Carlos Vinícius G. C.
 Lima, Ignasi Sau and Ana Silva
