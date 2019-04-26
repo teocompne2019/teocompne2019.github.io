@@ -21,7 +21,7 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:00 - 10:30&quot;}">10:00 - 11:30</td>
-<td style="background-color: #9fc5e8; text-align: center;" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}"><strong>Minicurso: Teoria de Ramsey: Introdu&ccedil;&atilde;o e avan&ccedil;os recentes</strong> Guilherme Mota (UFABC)</td>
+<td style="background-color: #9fc5e8; text-align: center;" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-1&quot;}"><strong>Minicurso: Teoria de Ramsey: Introdu&ccedil;&atilde;o e avan&ccedil;os recentes</strong><br /> Guilherme Mota (UFABC)</td>
 <td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-3&quot;}"><strong>Minicurso: BDDs - Voc&ecirc; deveria conhec&ecirc;-los!</strong><br /> Maria Viviane de Menezes (UFC)</td>
 <td style="background-color: #b6d7a8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mini-curso-5&quot;}"><strong>Minicurso: Introdu&ccedil;&atilde;o &agrave; Complexidade Parametrizada</strong><br /> Vin&iacute;cius dos Santos (UFMG)</td>
 </tr>
@@ -45,13 +45,13 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14:00 - 15:00&quot;}">15:00 - 16:00</td>
-<td style="background-color: #9fc5e8; text-align: center;" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-1&quot;}"><strong>Combinat&oacute;ria Extremal: &Aacute;rvores monocrom&aacute;ticas em grafos aleat&oacute;rios</strong> Guilherme Mota (UFABC)</td>
+<td style="background-color: #9fc5e8; text-align: center;" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-1&quot;}"><strong>Combinat&oacute;ria Extremal: &Aacute;rvores monocrom&aacute;ticas em grafos aleat&oacute;rios</strong><br /> Guilherme Mota (UFABC)</td>
 <td style="background-color: #d9d2e9; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-3&quot;}"><strong>Quebrando o C&oacute;digo da Matem&aacute;tica</strong><br /> Jo&atilde;o Marcos (UFRN)</td>
 <td style="background-color: #b6d7a8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-5&quot;}"><strong>Algoritmos Exatos e Heur&iacute;sticas de Colora&ccedil;&otilde;es de Grafos</strong><br /> Cl&aacute;udia Linhares (UFC)</td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15:00 - 16:00&quot;}">16:00 - 17:00</td>
-<td style="background-color: #d9d2e9; text-align: center;" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-2&quot;}"><strong>Planejamento em Intelig&ecirc;ncia Artificial</strong> Maria Viviane de Menezes (UFC)</td>
+<td style="background-color: #d9d2e9; text-align: center;" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-2&quot;}"><strong>Planejamento em Intelig&ecirc;ncia Artificial</strong><br /> Maria Viviane de Menezes (UFC)</td>
 <td style="background-color: #99ffaa; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-4&quot;}"><strong> Dual parameterization of Weighted Coloring.</strong><br /> Vin&iacute;cius Santos (UFMG)</td>
 <td style="background-color: #9fc5e8; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Confer&ecirc;ncia-6&quot;}"><strong>Satura&ccedil;&atilde;o fraca de grafos bipartidos completos</strong><br /> Ta&iacute;sa Martins (IMPA)</td>
 </tr>
