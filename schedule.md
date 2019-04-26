@@ -152,7 +152,28 @@ Discutiremos como estender esse resultado para mais cores e para potências de �
 		Vinícius dos Santos (UFMG)
 	</summary>
 	<p>
-		...
+A solução para diversos problemas reais frequentemente exige
+eficientes (usualmente de tempo polinomial). Como nem sempre isso é
+possível, a teoria da NP-completude foi desenvolvida para fornecer
+indícios de quais problemas não podem ser resolvidos por algoritmos
+polinomiais. Entretanto, como muitos problemas NP-difíceis precisam
+ser resolvidos na prática, algumas possibilidades adotadas são o uso
+de algoritmos aproximativos ou de heurísticas, em vez de algoritmos
+exatos, cujo tempo de execução teria uma dependência exponencial no
+tamanho da entrada.<br />
+Uma recente e promissora alternativa para a tratabilidade desses
+problemas, é recorrer a uma análise sob o ponto de vista da Teoria da
+Complexidade Parametrizada. Esta teoria, desenvolvida por Downey e
+Fellows, estuda a existência de algoritmos cuja dependência
+exponencial no tempo de execução depende apenas de certos aspectos da
+entrada, e não de seu tamanho. Problemas que admitem tais algoritmos
+são denominados tratáveis por parâmetro fixo (ou simplesmente
+algoritmos FPT). Este curso, introduzirá os conceitos fundamentais da
+complexidade parametrizada, algumas técnicas básicas de
+desenvolvimento de algoritmos FPT, e também discutirá resultados
+negativos, análogos à teoria da NP-completude, envolvendo problemas
+onde não se espera ser possível desenvolver algoritmos FPT. Os
+exemplos utilizados serão focados em problema em grafos.
 	</p>
 </details>
 </p>
@@ -217,13 +238,41 @@ significativas.
 <details>
 	<summary>
 		<i>
-			Título a ser anunciado em breve!!!
+			Dual parameterization of Weighted Coloring.
 		</i>
 		<br>
 		Vinícius dos Santos (UFMG)
 	</summary>
 	<p>
-		...
+Given a graph G, a proper k-coloring of G is a partition c =
+(S_i)_{i\in [1,k]} of V(G) into k stable sets S_1,\ldots, S_{k}. Given
+a weight function w: V(G) \to \mathbb{R}^+, the weight of a color S_i
+is defined as w(i) = \max_{v \in S_i} w(v) and the weight of a
+coloring c as w(c) = \sum_{i=1}^{k}w(i). Guan and Zhu [Inf. Process.
+Lett., 1997] defined the weighted chromatic number of a pair (G,w),
+denoted by σ(G,w), as the minimum weight of a proper coloring of G.
+The problem of determining σ(G,w) has received considerable attention
+during the last years, and has been proved to be notoriously hard: for
+instance, it is NP-hard on split graphs, unsolvable on n-vertex trees
+in time n^{o(\log n)} unless the ETH fails, and W[1]-hard on forests
+parameterized by the size of a largest tree. In this article we
+provide some positive results for the problem, by considering its
+so-called dual parameterization: given a vertex-weighted graph (G,w)
+and an integer k, the question is whether σ(G,w) \leq \sum_{v \in
+V(G)} w(v) - k. We prove that this problem is FPT by providing an
+algorithm running in time 9^k \cdot n^{O(1)}, and it is easy to see
+that no algorithm in time 2^{o(k)} \cdot n^{O(1)} exists under the
+ETH. On the other hand, we present a kernel with at most (2^{k-1}+1)
+(k-1) vertices, and we rule out the existence of polynomial kernels
+unless {\sf NP} \subseteq {\sf coNP} / {\sf poly}, even on split
+graphs with only two different weights. Finally, we identify some
+classes of graphs on which the problem admits a polynomial kernel, in
+particular interval graphs and subclasses of split graphs, and in the
+latter case we present lower bounds on the degrees of the polynomials.
+<br />
+
+Joint work with Júlio Araújo, Victor A. Campos, Carlos Vinícius G. C.
+Lima, Ignasi Sau and Ana Silva
 	</p>
 </details>
 </p>
