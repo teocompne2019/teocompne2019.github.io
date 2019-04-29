@@ -389,18 +389,6 @@ and algorithms from literature, proving to be sufficiently robust and challengin
 	</p>
 </details>
 </p>
-<details>
-	<summary>
-		<i>
-		De combinatória a sistemas de partículas
-		</i>
-		<br>
-		Guilherme Henrique De Paula Reis (UFBA), Roberto Imbuzeiro Oliveira (IMPA)
-	</summary>
-	<p>
-	O modelo de configuração é um modelo clássico introduzido por Bollobás (1980). Esse modelo é usado para construir grafos a partir de uma sequência de graus. Isto é, a partir de vizinhanças pré-fixadas de altura 1 para cada vértice. E se queremos pré-fixar vizinhanças de altura 2? Para isso precisamos do modelo de configuração generalizado introduzido por Bordenave e Caputo (2016). Nessa palestra, além de motivar o modelo de configuração generalizado queremos indicar conexões com teoremas de probabilidade e sistemas de partículas.
-	</p>
-</details>
 <p>
 <details>
 	<summary>
