@@ -70,7 +70,7 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;17:30 - 18:30&quot;}">18:30 - 19:30</td>
-<td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-2&quot;}">ST-3</td>
+<td 							data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-2&quot;}"></td>
 <td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-2&quot;}">ST-4</td>
 </tr>
 <tr>
@@ -263,18 +263,6 @@ Lima, Ignasi Sau and Ana Silva
 
 # Sessões técnicas
 
-<details>
-	<summary>
-		<i>
-			An ALC Description Logic Connection Calculus
-		</i>
-		<br>
-		Fred Freitas (UFPE), Jens Otten (University of Oslo)
-	</summary>
-	<p>
-		This paper presents a connection calculus for the description logic (DL) ALC. It replaces the usage of Skolem terms and unification by additional annotation and introduces blocking, a typical feature of DL provers, by a new rule, to ensure termination in the case of cyclic ontologies.
-	</p>
-</details>
 <p>
 <details>
 	<summary>
@@ -449,7 +437,7 @@ Next, we develop a matheuristic that hybridizes a multi-start iterated local sea
 # Legenda
 <ul>
 <li>
-<p><code>ST-x</code>: A escola est&aacute; planejada com 4 Sess&otilde;es T&eacute;cnicas contendo quatro ou tr&ecirc;s apresenta&ccedil;&otilde;es em cada uma delas. O tempo de apresenta&ccedil;&atilde;o ser&aacute; de 20 minutos para cada trabalho, com 15 minutos de exposi&ccedil;&atilde;o e 5 minutos de perguntas da plat&eacute;ia.</p>
+<p><code>ST-x</code>: A escola est&aacute; planejada com 3 Sess&otilde;es T&eacute;cnicas contendo quatro apresenta&ccedil;&otilde;es em cada uma delas. O tempo de apresenta&ccedil;&atilde;o ser&aacute; de 20 minutos para cada trabalho, com 15 minutos de exposi&ccedil;&atilde;o e 5 minutos de perguntas da plat&eacute;ia.</p>
 </li>
 <li>
 <p><code>Confer&ecirc;ncia-x</code>: Ser&atilde;o ministradas confer&ecirc;ncias com dura&ccedil;&atilde;o de uma hora.</p>
