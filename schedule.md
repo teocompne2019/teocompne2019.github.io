@@ -70,8 +70,8 @@ permalink: /schedule/
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;17:30 - 18:30&quot;}">18:30 - 19:30</td>
-<td 							data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-2&quot;}"></td>
-<td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-2&quot;}">ST-4</td>
+<td style="background-color: #fff999; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-2&quot;}">ST-3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ST-2&quot;}"></td>
 </tr>
 <tr>
 <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.8541666666666666}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}">20:30</td>
