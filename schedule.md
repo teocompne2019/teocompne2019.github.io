@@ -369,20 +369,6 @@ and algorithms from literature, proving to be sufficiently robust and challengin
 <details>
 	<summary>
 		<i>
-		Covering 3-coloured random graphs with monochromatic trees
-		</i>
-		<br>
-		Walner Mendonça (IMPA), Guilherme Mota (UFABC)
-	</summary>
-	<p>
-		We investigate the problem of determining how many monochromatic trees are necessary to cover the vertices of an edge-coloured random graph. More precisely, we show that for <img src="https://tex.s2cms.ru/svg/p%5Cgg%20%5Cleft(%5Cfrac%7B%5Cln%20n%7D%7Bn%7D%5Cright)%5E%7B1%2F6%7D" alt="p\gg \left(\frac{\ln n}{n}\right)^{1/6}" /> in any <img src="https://tex.s2cms.ru/svg/3" alt="3" />-colouring of the random graph <img src="https://tex.s2cms.ru/svg/G(n%2Cp)" alt="G(n,p)" /> we can find <img src="https://tex.s2cms.ru/svg/3" alt="3" /> monochromatic trees such that their union covers all vertices. This improves, for three colours, a result of Bucić, Korándi and Sudakov [Covering random graphs by monochromatic trees and Helly-type results for hypergraphs, arXiv:1902.05055]
-	</p>
-</details>
-</p>
-<p>
-<details>
-	<summary>
-		<i>
 		Decompondo grafos em arestas e triângulos
 		</i>
 		<br>
